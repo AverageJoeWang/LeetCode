@@ -8,7 +8,7 @@ LeetCode solutions in C++ 11. (From Easy to Hard)
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |001|[Two Sum][001]|[C++](001_Two_Sum/solution.h)|2016/03/03|Medium|
-|169|[Majority Element]|[C++](169_Majority_Element/solution.h)|2016/03/08|Easy|
+|169|[Majority Element][169]|[C++](169_Majority_Element/solution.h)|2016/03/08|Easy|
 |171|[Excel Sheet Column Number][171]|[C++](171_Excel_Sheet_Column_Number/solution.h)|2016/03/04|Easy|
 |258|[Add Digits][258]|[C++](258_Add_Digits/solution.h)|2016/03/03|Easy|
 |283|[Move Zeroes][283]|[C++](283_Move_Zeroes/solution.h)|2016/03/04|Easy|

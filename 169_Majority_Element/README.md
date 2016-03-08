@@ -21,7 +21,7 @@
 
 + 1.从nums[1]开始遍历,保存nums[0]放在temp中，同时count为1
 
-+ 2. 当nums[i]与temp相等时count加1，否则减1
++ 2.当nums[i]与temp相等时count加1，否则减1
 
 + 3.当count为0时，将nums[i+1]存在temp中，count变为1
 

@@ -17,7 +17,6 @@ public class _088_MergeSortedArray {
             temp[t++] = nums1[i++];
         while (j < n)
             temp[t++] = nums2[j++];
-
         while (--t >= 0)
             nums1[t] = temp[t];
     }

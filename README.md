@@ -6,6 +6,7 @@ LeetCode solutions in Java.
 |---|-----|--------|--------|----------|
 |001|[Two Sum][001]|[JAVA](_001_TwoSum.java)|2017/12/15|Easy|
 |088|[Merge Sorted Array][088]|Method1:[JAVA1](_088_MergeSortedArray.java) Method2:[JAVA2](_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
+|118|[Pascal's Triangle][118]|[JAVA](_118_PascalssTriangle.java)|2017/12/20|Easy|
 |268|[Missing Number][268]|method1:[JAVA1](_268_MissingNumber.java)method2:[JAVA2](_268_MissingNumber_2.java)|2017/12/18|Easy|
 |283|[Move Zeroes][283]|[JAVA](_283_MoveZeroes.java)|2017/12/18|Easy|
 |581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
@@ -17,6 +18,7 @@ LeetCode solutions in Java.
 |---|-----|--------|--------|----------|
 |001|[Two Sum][001]|[JAVA](_001_TwoSum.java)|2017/12/15|Easy|
 |088|[Merge Sorted Array][088]|Method1:[JAVA1](_088_MergeSortedArray.java) Method2:[JAVA2](_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
+|118|[Pascal's Triangle][118]|[JAVA](_118_PascalssTriangle.java)|2017/12/20|Easy|
 |268|[Missing Number][268]|method1:[JAVA1](_268_MissingNumber.java)method2:[JAVA2](_268_MissingNumber_2.java)|2017/12/18|Easy|
 |283|[Move Zeroes][283]|[JAVA](_283_MoveZeroes.java)|2017/12/18|Easy|
 |581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
@@ -25,6 +27,7 @@ LeetCode solutions in Java.
 
 [001]:https://leetcode.com/problems/two-sum/description/
 [088]:https://leetcode.com/problems/merge-sorted-array/description/
+[118]:https://leetcode.com/problems/pascals-triangle/description/
 [268]:https://leetcode.com/problems/missing-number/description/
 [283]:https://leetcode.com/problems/move-zeroes/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/

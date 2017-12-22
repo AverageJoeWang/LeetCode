@@ -1,7 +1,7 @@
 /**
  * Created by wanglifei on 2017/12/17.
  */
-public class _717_1bit_and_2bitCharacters_2 {
+public class LeetCode_717_1bit_and_2bitCharacters_2 {
     public boolean isOneBitCharacter(int[] bits) {
         for (int i = 0; i < bits.length - 1; i++)
         {

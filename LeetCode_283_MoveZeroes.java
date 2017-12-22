@@ -1,7 +1,7 @@
 /**
  * Created by wanglifei on 2017/12/18.
  */
-public class _283_MoveZeroes {//o(n)space, o(n) in time
+public class LeetCode_283_MoveZeroes {//o(n)space, o(n) in time
     public void moveZeroes(int[] nums) {
         int count[];
         count = new int[nums.length];

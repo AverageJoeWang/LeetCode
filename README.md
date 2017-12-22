@@ -4,32 +4,32 @@ LeetCode solutions in Java.
 
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
-|001|[Two Sum][001]|[JAVA](_001_TwoSum.java)|2017/12/15|Easy|
-|026|[Remove Duplicates from Sorted Array][026]|[JAVA](_026_RemoveDuplicatesfromSortedArraym.java)|2017/12/21|Easy|
-|027|[Remove Element][027]|[JAVA](_027_RemoveElement.java)|2017/12/21|Easy|
-|088|[Merge Sorted Array][088]|Method1:[JAVA1](_088_MergeSortedArray.java) Method2:[JAVA2](_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
-|118|[Pascal's Triangle][118]|[JAVA](_118_PascalssTriangle.java)|2017/12/20|Easy|
-|119|[Pascal's Triangle II][119]|[JAVA](_118_PascalsTriangle.java)|2017/12/21|Easy|
-|268|[Missing Number][268]|method1:[JAVA1](_268_MissingNumber.java)method2:[JAVA2](_268_MissingNumber_2.java)|2017/12/18|Easy|
-|283|[Move Zeroes][283]|[JAVA](_283_MoveZeroes.java)|2017/12/18|Easy|
-|581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
-|697|[Degree of an Array][001]|[JAVA](_697_DegreeofanArray.java)|2017/12/17|Easy|
-|717|[1-bit and 2-bit Characters][717]|method1:[JAVA](_717_1bit_and_2bitCharacters.java)method2:[JAVA](_717_1bit_and_2bitCharacters_2.java)|2017/12/16|Easy|
+|001|[Two Sum][001]|[JAVA](LeetCode_001_TwoSum.java)|2017/12/15|Easy|
+|026|[Remove Duplicates from Sorted Array][026]|[JAVA](LeetCode_026_RemoveDuplicatesfromSortedArraym.java)|2017/12/21|Easy|
+|027|[Remove Element][027]|[JAVA](LeetCode_027_RemoveElement.java)|2017/12/21|Easy|
+|088|[Merge Sorted Array][088]|Method1:[JAVA1](LeetCode_088_MergeSortedArray.java) Method2:[JAVA2](LeetCode_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
+|118|[Pascal's Triangle][118]|[JAVA](LeetCode_118_PascalssTriangle.java)|2017/12/20|Easy|
+|119|[Pascal's Triangle II][119]|[JAVA](LeetCode_118_PascalsTriangle.java)|2017/12/21|Easy|
+|268|[Missing Number][268]|method1:[JAVA1](LeetCode_268_MissingNumber.java)method2:[JAVA2](LeetCode_268_MissingNumber_2.java)|2017/12/18|Easy|
+|283|[Move Zeroes][283]|[JAVA](LeetCode_283_MoveZeroes.java)|2017/12/18|Easy|
+|581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](LeetCode_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
+|697|[Degree of an Array][001]|[JAVA](LeetCode_697_DegreeofanArray.java)|2017/12/17|Easy|
+|717|[1-bit and 2-bit Characters][717]|method1:[JAVA](LeetCode_717_1bit_and_2bitCharacters.java)method2:[JAVA](LeetCode_717_1bit_and_2bitCharacters_2.java)|2017/12/16|Easy|
 
 ## tags:Array
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
-|001|[Two Sum][001]|[JAVA](_001_TwoSum.java)|2017/12/15|Easy|
-|026|[Remove Duplicates from Sorted Array][026]|[JAVA](_026_RemoveDuplicatesfromSortedArraym.java)|2017/12/21|Easy|
-|027|[Remove Element][027]|[JAVA](_027_RemoveElement.java)|2017/12/21|Easy|
-|088|[Merge Sorted Array][088]|Method1:[JAVA1](_088_MergeSortedArray.java) Method2:[JAVA2](_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
-|118|[Pascal's Triangle][118]|[JAVA](_118_PascalssTriangle.java)|2017/12/20|Easy|
-|119|[Pascal's Triangle II][119]|[JAVA](_118_PascalsTriangle.java)|2017/12/21|Easy|
-|268|[Missing Number][268]|method1:[JAVA1](_268_MissingNumber.java)method2:[JAVA2](_268_MissingNumber_2.java)|2017/12/18|Easy|
-|283|[Move Zeroes][283]|[JAVA](_283_MoveZeroes.java)|2017/12/18|Easy|
-|581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
-|697|[Degree of an Array][001]|[JAVA](_697_DegreeofanArray.java)|2017/12/17|Easy|
-|717|[1-bit and 2-bit Characters][717]|method1:[JAVA](_717_1bit_and_2bitCharacters.java)method2:[JAVA](_717_1bit_and_2bitCharacters_2.java)|2017/12/16|Easy|
+|001|[Two Sum][001]|[JAVA](LeetCode_001_TwoSum.java)|2017/12/15|Easy|
+|026|[Remove Duplicates from Sorted Array][026]|[JAVA](LeetCode_026_RemoveDuplicatesfromSortedArraym.java)|2017/12/21|Easy|
+|027|[Remove Element][027]|[JAVA](LeetCode_027_RemoveElement.java)|2017/12/21|Easy|
+|088|[Merge Sorted Array][088]|Method1:[JAVA1](LeetCode_088_MergeSortedArray.java) Method2:[JAVA2](LeetCode_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
+|118|[Pascal's Triangle][118]|[JAVA](LeetCode_118_PascalssTriangle.java)|2017/12/20|Easy|
+|119|[Pascal's Triangle II][119]|[JAVA](LeetCode_118_PascalsTriangle.java)|2017/12/21|Easy|
+|268|[Missing Number][268]|method1:[JAVA1](LeetCode_268_MissingNumber.java)method2:[JAVA2](LeetCode_268_MissingNumber_2.java)|2017/12/18|Easy|
+|283|[Move Zeroes][283]|[JAVA](LeetCode_283_MoveZeroes.java)|2017/12/18|Easy|
+|581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](LeetCode_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
+|697|[Degree of an Array][001]|[JAVA](LeetCode_697_DegreeofanArray.java)|2017/12/17|Easy|
+|717|[1-bit and 2-bit Characters][717]|method1:[JAVA](LeetCode_717_1bit_and_2bitCharacters.java)method2:[JAVA](LeetCode_717_1bit_and_2bitCharacters_2.java)|2017/12/16|Easy|
 
 [001]:https://leetcode.com/problems/two-sum/description/
 [026]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/

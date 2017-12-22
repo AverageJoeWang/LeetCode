@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Created by wanglifei on 2017/12/20.
  */
-public class _119_PascalsTriangleII {
+public class LeetCode_119_PascalsTriangleII {
     public List<Integer> getRow(int rowIndex) {
         ArrayList<Integer> res = new ArrayList<Integer>();
         if(rowIndex<0)

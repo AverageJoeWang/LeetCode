@@ -1,7 +1,7 @@
 /**
  * Created by wanglifei on 2017/12/15.
  */
-public class _001_TwoSum {
+public class LeetCode_001_TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int[] a;
         a = new int[2];

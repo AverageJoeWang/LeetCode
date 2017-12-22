@@ -1,7 +1,7 @@
 /**
  * Created by wanglifei on 2017/12/21.
  */
-public class _027_RemoveElement {
+public class LeetCode_027_RemoveElement {
     public int removeElement(int[] nums, int val) {//o(1) in space, o(n) in time
         int i = 0, k = 0, n = nums.length;
         while (i != n){

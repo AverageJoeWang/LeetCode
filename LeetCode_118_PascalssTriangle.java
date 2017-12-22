@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Created by wanglifei on 2017/12/20.
  */
-public class _118_PascalssTriangle {
+public class LeetCode_118_PascalssTriangle {
     public List<List<Integer>> generate(int numRows) {//o(n)space, o(n2) in time
         List<List<Integer>> rows = new LinkedList<List<Integer>>();
         for (int i = 1; i <= numRows; i++)

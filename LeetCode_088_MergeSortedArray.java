@@ -1,7 +1,7 @@
 /**
  * Created by wanglifei on 2017/12/15.
  */
-public class _088_MergeSortedArray {
+public class LeetCode_088_MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int temp[];//利用第三个数组，时间复杂度是O(n),此时需要额外的空间
         temp = new int[m + n];

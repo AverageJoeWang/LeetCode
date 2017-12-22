@@ -1,7 +1,7 @@
 /**
  * Created by wanglifei on 2017/12/21.
  */
-public class _026_RemoveDuplicatesfromSortedArray {//o(1) in space, o(n) in time
+public class LeetCode_026_RemoveDuplicatesfromSortedArray {//o(1) in space, o(n) in time
     public int removeDuplicates(int[] nums) {
         int  i = 0, k = 0, n = nums.length, res = 0;
         if(n!=0) res = nums[0] - 1;

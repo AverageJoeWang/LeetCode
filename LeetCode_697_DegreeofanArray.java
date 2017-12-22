@@ -1,7 +1,7 @@
 /**
  * Created by wanglifei on 2017/12/17.
  */
-public class _697_DegreeofanArray {
+public class LeetCode_697_DegreeofanArray {
     public int findShortestSubArray(int[] nums) {
         int count[];
         count = new int[50000];

@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * Created by wanglifei on 2017/12/19.
  */
-public class _581_ShortestUnsortedContinuousSubarray {//o(n)space, o(n) in time
+public class LeetCode_581_ShortestUnsortedContinuousSubarray {//o(n)space, o(n) in time
     public int findUnsortedSubarray(int[] nums) {//利用新数组排序，对比
         int n = nums.length;
         int arr[];

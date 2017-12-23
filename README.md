@@ -10,6 +10,7 @@ LeetCode solutions in Java.
 |088|[Merge Sorted Array][088]|Method1:[JAVA1](LeetCode_088_MergeSortedArray.java) Method2:[JAVA2](LeetCode_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
 |118|[Pascal's Triangle][118]|[JAVA](LeetCode_118_PascalssTriangle.java)|2017/12/20|Easy|
 |119|[Pascal's Triangle II][119]|[JAVA](LeetCode_118_PascalsTriangle.java)|2017/12/21|Easy|
+|121|[Best Time to Buy and Sell Stock][121]|[JAVA](LeetCode_121_BestTimetoBuyandSellStock.java)|2017/12/23|Easy|
 |268|[Missing Number][268]|method1:[JAVA1](LeetCode_268_MissingNumber.java)method2:[JAVA2](LeetCode_268_MissingNumber_2.java)|2017/12/18|Easy|
 |283|[Move Zeroes][283]|[JAVA](LeetCode_283_MoveZeroes.java)|2017/12/18|Easy|
 |581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](LeetCode_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
@@ -26,6 +27,7 @@ LeetCode solutions in Java.
 |088|[Merge Sorted Array][088]|Method1:[JAVA1](LeetCode_088_MergeSortedArray.java) Method2:[JAVA2](LeetCode_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
 |118|[Pascal's Triangle][118]|[JAVA](LeetCode_118_PascalssTriangle.java)|2017/12/20|Easy|
 |119|[Pascal's Triangle II][119]|[JAVA](LeetCode_118_PascalsTriangle.java)|2017/12/21|Easy|
+|121|[Best Time to Buy and Sell Stock][121]|[JAVA](LeetCode_121_BestTimetoBuyandSellStock.java)|2017/12/23|Easy|
 |268|[Missing Number][268]|method1:[JAVA1](LeetCode_268_MissingNumber.java)method2:[JAVA2](LeetCode_268_MissingNumber_2.java)|2017/12/18|Easy|
 |283|[Move Zeroes][283]|[JAVA](LeetCode_283_MoveZeroes.java)|2017/12/18|Easy|
 |581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](LeetCode_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
@@ -39,6 +41,7 @@ LeetCode solutions in Java.
 [088]:https://leetcode.com/problems/merge-sorted-array/description/
 [118]:https://leetcode.com/problems/pascals-triangle/description/
 [119]:https://leetcode.com/problems/pascals-triangle-ii/description/
+[121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [268]:https://leetcode.com/problems/missing-number/description/
 [283]:https://leetcode.com/problems/move-zeroes/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/

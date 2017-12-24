@@ -1,7 +1,7 @@
 /**
  * Created by wanglifei on 2017/12/24.
  */
-public class LeetCode_35_SearchInsertPosition {
+public class LeetCode_035_SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
         int index = 0;
         if (nums.length >= 1 && target < nums[index])

@@ -20,6 +20,7 @@ LeetCode solutions in Java.
 |674|[Longest Continuous Increasing Subsequence][674]|[JAVA](LeetCode_674_LongestContinuousIncreasingSubsequence.java)|2017/12/25|Easy|
 |697|[Degree of an Array][697]|[JAVA](LeetCode_697_DegreeofanArray.java)|2017/12/17|Easy|
 |717|[1-bit and 2-bit Characters][717]|method1:[JAVA](LeetCode_717_1bit_and_2bitCharacters.java)method2:[JAVA](LeetCode_717_1bit_and_2bitCharacters_2.java)|2017/12/16|Easy|
+|724|[Find Pivot Index][724]|[JAVA](LeetCode_724_FindPivotIndex.java)|2017/12/25|Easy|
 |747|[Largest Number Greater Than Twice of Others][747]|[JAVA](LeetCode_747_LargestNumberGreaterThanTwiceofOthers.java)|2017/12/25|Easy|
 
 ## tags:Array
@@ -46,6 +47,7 @@ LeetCode solutions in Java.
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [697]:https://leetcode.com/problems/degree-of-an-array/
 [717]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
+[724]:https://leetcode.com/problems/find-pivot-index/description/
 [747]:https://leetcode.com/problems/largest-number-greater-than-twice-of-others/description/
 
 

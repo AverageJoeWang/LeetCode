@@ -13,6 +13,7 @@ LeetCode solutions in Java.
 |119|[Pascal's Triangle II][119]|[JAVA](LeetCode_118_PascalsTriangle.java)|2017/12/21|Easy|
 |121|[Best Time to Buy and Sell Stock][121]|[JAVA](LeetCode_121_BestTimetoBuyandSellStock.java)|2017/12/23|Easy|
 |122|[Best Time to Buy and Sell Stock II][122]|[JAVA](LeetCode_122_BestTimetoBuyandSellStockII.java)|2017/12/24|Easy|
+|217|[Contains Duplicate][217]|[JAVA](LeetCode_217_ContainsDuplicate.java)|2017/12/27|Easy|
 |268|[Missing Number][268]|method1:[JAVA1](LeetCode_268_MissingNumber.java)method2:[JAVA2](LeetCode_268_MissingNumber_2.java)|2017/12/18|Easy|
 |283|[Move Zeroes][283]|[JAVA](LeetCode_283_MoveZeroes.java)|2017/12/18|Easy|
 |414|[Third Maximum Number][414]|[JAVA](LeetCode_414_ThirdMaximumNumber.java)|2017/12/26|Easy|
@@ -41,6 +42,7 @@ LeetCode solutions in Java.
 [119]:https://leetcode.com/problems/pascals-triangle-ii/description/
 [121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [122]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[217]:https://leetcode.com/problems/contains-duplicate/description/
 [268]:https://leetcode.com/problems/missing-number/description/
 [283]:https://leetcode.com/problems/move-zeroes/
 [414]:https://leetcode.com/problems/third-maximum-number/description/

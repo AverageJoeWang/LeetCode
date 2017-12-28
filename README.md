@@ -20,6 +20,7 @@ LeetCode solutions in Java.
 |414|[Third Maximum Number][414]|[JAVA](LeetCode_414_ThirdMaximumNumber.java)|2017/12/26|Easy|
 |581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](LeetCode_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
 |605|[ Can Place Flowers][605]|[JAVA](LeetCode_605_CanPlaceFlowers.java)|2017/12/22|Easy|
+|628|[ Maximum Product of Three Numbers][628]|[JAVA](LeetCode_628_MaximumProductofThreeNumbers.java)|2017/12/28|Easy|
 |674|[Longest Continuous Increasing Subsequence][674]|[JAVA](LeetCode_674_LongestContinuousIncreasingSubsequence.java)|2017/12/25|Easy|
 |697|[Degree of an Array][697]|[JAVA](LeetCode_697_DegreeofanArray.java)|2017/12/17|Easy|
 |717|[1-bit and 2-bit Characters][717]|method1:[JAVA](LeetCode_717_1bit_and_2bitCharacters.java)method2:[JAVA](LeetCode_717_1bit_and_2bitCharacters_2.java)|2017/12/16|Easy|
@@ -50,6 +51,7 @@ LeetCode solutions in Java.
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 [605]:https://leetcode.com/problems/can-place-flowers/description/
+[628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [697]:https://leetcode.com/problems/degree-of-an-array/
 [717]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/

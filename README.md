@@ -8,6 +8,7 @@ LeetCode solutions in Java.
 |026|[Remove Duplicates from Sorted Array][026]|[JAVA](LeetCode_026_RemoveDuplicatesfromSortedArraym.java)|2017/12/21|Easy|
 |027|[Remove Element][027]|[JAVA](LeetCode_027_RemoveElement.java)|2017/12/21|Easy|
 |035|[Search Insert Position][035]|[JAVA](LeetCode_035_SearchInsertPosition.java)|2017/12/24|Easy|
+|066|[Plus One][066]|[JAVA](LeetCode_066_PlusOne.java)|2017/12/29|Easy|
 |088|[Merge Sorted Array][088]|Method1:[JAVA1](LeetCode_088_MergeSortedArray.java) Method2:[JAVA2](LeetCode_088_MergeSortedArray_with_NoMoreSpace.java)|2017/12/15|Easy|
 |118|[Pascal's Triangle][118]|[JAVA](LeetCode_118_PascalssTriangle.java)|2017/12/20|Easy|
 |119|[Pascal's Triangle II][119]|[JAVA](LeetCode_118_PascalsTriangle.java)|2017/12/21|Easy|
@@ -42,6 +43,7 @@ LeetCode solutions in Java.
 [026]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [027]:https://leetcode.com/problems/remove-element/description/
 [035]:https://leetcode.com/problems/search-insert-position/description/
+[066]:https://leetcode.com/problems/plus-one/description/
 [088]:https://leetcode.com/problems/merge-sorted-array/description/
 [118]:https://leetcode.com/problems/pascals-triangle/description/
 [119]:https://leetcode.com/problems/pascals-triangle-ii/description/

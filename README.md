@@ -15,6 +15,7 @@ LeetCode solutions in Java.
 |119|[Pascal's Triangle II][119]|[JAVA](LeetCode_118_PascalsTriangle.java)|2017/12/21|Easy|
 |121|[Best Time to Buy and Sell Stock][121]|[JAVA](LeetCode_121_BestTimetoBuyandSellStock.java)|2017/12/23|Easy|
 |122|[Best Time to Buy and Sell Stock II][122]|[JAVA](LeetCode_122_BestTimetoBuyandSellStockII.java)|2017/12/24|Easy|
+|167|[Two Sum II - Input array is sorted][167]|[JAVA](LeetCode_167_TwoSumII_InputArrayisSorted.java)|2017/12/30|Easy|
 |217|[Contains Duplicate][217]|[JAVA](LeetCode_217_ContainsDuplicate.java)|2017/12/27|Easy|
 |219|[Contains Duplicate II][219]|[JAVA](LeetCode_219_ContainsDuplicateII.java)|2017/12/28|Easy|
 |268|[Missing Number][268]|method1:[JAVA1](LeetCode_268_MissingNumber.java)method2:[JAVA2](LeetCode_268_MissingNumber_2.java)|2017/12/18|Easy|
@@ -54,6 +55,7 @@ LeetCode solutions in Java.
 [119]:https://leetcode.com/problems/pascals-triangle-ii/description/
 [121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [122]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [219]:https://leetcode.com/problems/contains-duplicate-ii/description/
 [268]:https://leetcode.com/problems/missing-number/description/

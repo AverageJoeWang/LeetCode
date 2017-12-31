@@ -67,7 +67,6 @@ LeetCode solutions in Java.
 |532|[K-diff Pairs in an Array][532]|[JAVA](LeetCode_532_KdiffPairsinanArray.java)|2017/12/31|Easy|
 |561|[Array Partition I][561]|[JAVA](LeetCode_561_ArrayPartitionI.java)|2017/12/28|Easy|
 |566|[Reshape the Matrix][566]|[JAVA](LeetCode_566_ReshapetheMatrix.java)|2017/12/28|Easy|
-
 |581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](LeetCode_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
 |605|[ Can Place Flowers][605]|[JAVA](LeetCode_605_CanPlaceFlowers.java)|2017/12/22|Easy|
 |628|[ Maximum Product of Three Numbers][628]|[JAVA](LeetCode_628_MaximumProductofThreeNumbers.java)|2017/12/28|Easy|

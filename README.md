@@ -64,8 +64,10 @@ LeetCode solutions in Java.
 |414|[Third Maximum Number][414]|[JAVA](LeetCode_414_ThirdMaximumNumber.java)|2017/12/26|Easy|
 |448|[Find All Numbers Disappeared in an Array][448]|[JAVA](LeetCode_448_FindAllNumbersDisappearedinanArray.java)|2017/12/26|Easy|
 |485|[Max Consecutive Ones][485]|[JAVA](LeetCode_485_MaxConsecutiveOnes.java)|2017/12/26|Easy|
+|532|[K-diff Pairs in an Array][532]|[JAVA](LeetCode_532_KdiffPairsinanArray.java)|2017/12/31|Easy|
 |561|[Array Partition I][561]|[JAVA](LeetCode_561_ArrayPartitionI.java)|2017/12/28|Easy|
 |566|[Reshape the Matrix][566]|[JAVA](LeetCode_566_ReshapetheMatrix.java)|2017/12/28|Easy|
+
 |581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](LeetCode_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
 |605|[ Can Place Flowers][605]|[JAVA](LeetCode_605_CanPlaceFlowers.java)|2017/12/22|Easy|
 |628|[ Maximum Product of Three Numbers][628]|[JAVA](LeetCode_628_MaximumProductofThreeNumbers.java)|2017/12/28|Easy|

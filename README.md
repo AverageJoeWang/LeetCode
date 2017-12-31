@@ -25,6 +25,7 @@ LeetCode solutions in Java.
 |414|[Third Maximum Number][414]|[JAVA](LeetCode_414_ThirdMaximumNumber.java)|2017/12/26|Easy|
 |448|[Find All Numbers Disappeared in an Array][448]|[JAVA](LeetCode_448_FindAllNumbersDisappearedinanArray.java)|2017/12/26|Easy|
 |485|[Max Consecutive Ones][485]|[JAVA](LeetCode_485_MaxConsecutiveOnes.java)|2017/12/26|Easy|
+|532|[K-diff Pairs in an Array][532]|[JAVA](LeetCode_532_KdiffPairsinanArray.java)|2017/12/31|Easy|
 |561|[Array Partition I][561]|[JAVA](LeetCode_561_ArrayPartitionI.java)|2017/12/28|Easy|
 |566|[Reshape the Matrix][566]|[JAVA](LeetCode_566_ReshapetheMatrix.java)|2017/12/28|Easy|
 |581|[ Shortest Unsorted Continuous Subarray][581]|[JAVA](LeetCode_581_ShortestUnsortedContinuousSubarray.java)|2017/12/19|Easy|
@@ -100,6 +101,7 @@ LeetCode solutions in Java.
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
+[532]:https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/

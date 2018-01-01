@@ -78,6 +78,12 @@ LeetCode solutions in Java.
 |724|[Find Pivot Index][724]|[JAVA](LeetCode_724_FindPivotIndex.java)|2017/12/25|Easy|
 |747|[Largest Number Greater Than Twice of Others][747]|[JAVA](LeetCode_747_LargestNumberGreaterThanTwiceofOthers.java)|2017/12/25|Easy|
 
+## String
+|NO.|Title|Solution|Add Date|Difficulty|
+|---|-----|--------|--------|----------|
+|038|[Count and Say][038]|[JAVA](LeetCode_038_CountandSay.java)|2018/01/01|Easy|
+
+
 
 
 
@@ -85,6 +91,7 @@ LeetCode solutions in Java.
 [026]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [027]:https://leetcode.com/problems/remove-element/description/
 [035]:https://leetcode.com/problems/search-insert-position/description/
+[038]:https://leetcode.com/problems/count-and-say/description/
 [053]:https://leetcode.com/problems/maximum-subarray/description/
 [066]:https://leetcode.com/problems/plus-one/description/
 [088]:https://leetcode.com/problems/merge-sorted-array/description/

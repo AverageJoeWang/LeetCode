@@ -82,6 +82,7 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |038|[Count and Say][038]|[JAVA](LeetCode_038_CountandSay.java)|2018/01/01|Easy|
+|686|[Repeated String Match][686]|[JAVA](LeetCode_686_RepeatedStringMatch.java)|2018/01/02|Easy|
 
 
 
@@ -118,6 +119,7 @@ LeetCode solutions in Java.
 [643]:https://leetcode.com/problems/maximum-average-subarray-i/description/
 [665]:https://leetcode.com/problems/non-decreasing-array/description/
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
+[686]:https://leetcode.com/problems/repeated-string-match/description/
 [697]:https://leetcode.com/problems/degree-of-an-array/
 [717]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
 [724]:https://leetcode.com/problems/find-pivot-index/description/

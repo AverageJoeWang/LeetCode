@@ -82,7 +82,7 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |038|[Count and Say][038]|[JAVA](LeetCode_038_CountandSay.java)|2018/01/01|Easy|
-|125|[Valid Palindrome][125]|[JAVA](LeetCode_125_ValidPalindrome.java)|2018/01/03|Easy|
+|125|[Valid Palindrome][125]|[JAVA](LeetCode_125_ValidPalindrome.java)|2018/01/04|Easy|
 |686|[Repeated String Match][686]|[JAVA](LeetCode_686_RepeatedStringMatch.java)|2018/01/02|Easy|
 
 

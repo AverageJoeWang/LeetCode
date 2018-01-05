@@ -81,6 +81,7 @@ LeetCode solutions in Java.
 ## String
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
+|013|[Roman to Integer][013]|[JAVA](LeetCode_013_RomantoInteger.java)|2018/01/05|Easy|
 |038|[Count and Say][038]|[JAVA](LeetCode_038_CountandSay.java)|2018/01/01|Easy|
 |125|[Valid Palindrome][125]|[JAVA](LeetCode_125_ValidPalindrome.java)|2018/01/04|Easy|
 |657|[Judge Route Circle][657]|[JAVA](LeetCode_657_JudgeRouteCircle.java)|2018/01/05|Easy|
@@ -92,6 +93,7 @@ LeetCode solutions in Java.
 
 
 [001]:https://leetcode.com/problems/two-sum/description/
+[013]:https://leetcode.com/problems/roman-to-integer/description/
 [026]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [027]:https://leetcode.com/problems/remove-element/description/
 [035]:https://leetcode.com/problems/search-insert-position/description/

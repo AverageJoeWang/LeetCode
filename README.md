@@ -85,6 +85,7 @@ LeetCode solutions in Java.
 |014|[Longest Common Prefix][014]|[JAVA](LeetCode_014_LongestCommonPrefix.java)|2018/01/05|Easy|
 |038|[Count and Say][038]|[JAVA](LeetCode_038_CountandSay.java)|2018/01/01|Easy|
 |125|[Valid Palindrome][125]|[JAVA](LeetCode_125_ValidPalindrome.java)|2018/01/04|Easy|
+|557|[Reverse Words in a String III][557]|[JAVA](LeetCode_557_ReverseWordsinaStringIII.java)|2018/01/05|Easy|
 |606|[onstruct String from Binary Tree][606]|[JAVA](LeetCode_606_ConstructStringfromBinaryTree.java)|2018/01/05|Easy|
 |657|[Judge Route Circle][657]|[JAVA](LeetCode_657_JudgeRouteCircle.java)|2018/01/05|Easy|
 |686|[Repeated String Match][686]|[JAVA](LeetCode_686_RepeatedStringMatch.java)|2018/01/02|Easy|
@@ -120,6 +121,7 @@ LeetCode solutions in Java.
 [448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
 [532]:https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
+[557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
 [566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/

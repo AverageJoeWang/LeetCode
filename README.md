@@ -83,7 +83,9 @@ LeetCode solutions in Java.
 |---|-----|--------|--------|----------|
 |038|[Count and Say][038]|[JAVA](LeetCode_038_CountandSay.java)|2018/01/01|Easy|
 |125|[Valid Palindrome][125]|[JAVA](LeetCode_125_ValidPalindrome.java)|2018/01/04|Easy|
+|657|[Judge Route Circle][657]|[JAVA](LeetCode_657_JudgeRouteCircle.java)|2018/01/05|Easy|
 |686|[Repeated String Match][686]|[JAVA](LeetCode_686_RepeatedStringMatch.java)|2018/01/02|Easy|
+
 
 
 
@@ -119,6 +121,7 @@ LeetCode solutions in Java.
 [605]:https://leetcode.com/problems/can-place-flowers/description/
 [628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [643]:https://leetcode.com/problems/maximum-average-subarray-i/description/
+[657]:https://leetcode.com/problems/judge-route-circle/description/
 [665]:https://leetcode.com/problems/non-decreasing-array/description/
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [686]:https://leetcode.com/problems/repeated-string-match/description/

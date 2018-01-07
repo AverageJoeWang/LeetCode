@@ -87,6 +87,7 @@ LeetCode solutions in Java.
 |028|[Implement strStr()][028]|[Java](LeetCode_028_ImplementstrStr.Java)|2018/01/06|Easy|
 |038|[Count and Say][038]|[Java](LeetCode_038_CountandSay.Java)|2018/01/01|Easy|
 |125|[Valid Palindrome][125]|[Java](LeetCode_125_ValidPalindrome.Java)|2018/01/04|Easy|
+|521|[Longest Uncommon Subsequence I][521]|[Java](LeetCode_521_LongestUncommonSubsequenceI.Java)|2018/01/07|Easy|
 |541|[Reverse String II][541]|[Java](LeetCode_541_ReverseStringII.Java)|2018/01/05|Easy|
 |551|[Student Attendance Record I][551]|[Java](LeetCode_551_StudentAttendanceRecordI.Java)|2018/01/06|Easy|
 |557|[Reverse Words in a String III][557]|[Java](LeetCode_557_ReverseWordsinaStringIII.Java)|2018/01/05|Easy|
@@ -126,6 +127,7 @@ LeetCode solutions in Java.
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
+[521]:https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
 [532]:https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
 [541]:https://leetcode.com/problems/reverse-string-ii/description/
 [551]:https://leetcode.com/problems/student-attendance-record-i/description/

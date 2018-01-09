@@ -86,6 +86,7 @@ LeetCode solutions in Java.
 |020|[Valid Parentheses][020]|[Java](LeetCode_020_ValidParentheses.Java)|2018/01/06|Easy|
 |028|[Implement strStr()][028]|[Java](LeetCode_028_ImplementstrStr.Java)|2018/01/06|Easy|
 |038|[Count and Say][038]|[Java](LeetCode_038_CountandSay.Java)|2018/01/01|Easy|
+|067|[Add Binary][067]|[Java](LeetCode_067_AddBinary.Java)|2018/01/09|Easy|
 |125|[Valid Palindrome][125]|[Java](LeetCode_125_ValidPalindrome.Java)|2018/01/04|Easy|
 |344|[Reverse String][344]|[Java](LeetCode_344_ReverseString.Java)|2018/01/09|Easy|
 |434|[Number of Segments in a String][434]|[Java](LeetCode_434_NumberofSegmentsinaString.Java)|2018/01/08|Easy|
@@ -114,6 +115,7 @@ LeetCode solutions in Java.
 [038]:https://leetcode.com/problems/count-and-say/description/
 [053]:https://leetcode.com/problems/maximum-subarray/description/
 [066]:https://leetcode.com/problems/plus-one/description/
+[067]:https://leetcode.com/problems/add-binary/description/
 [088]:https://leetcode.com/problems/merge-sorted-array/description/
 [118]:https://leetcode.com/problems/pascals-triangle/description/
 [119]:https://leetcode.com/problems/pascals-triangle-ii/description/

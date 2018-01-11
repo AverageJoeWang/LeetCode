@@ -90,6 +90,7 @@ LeetCode solutions in Java.
 |067|[Add Binary][067]|[Java](LeetCode_067_AddBinary.Java)|2018/01/09|Easy|
 |125|[Valid Palindrome][125]|[Java](LeetCode_125_ValidPalindrome.Java)|2018/01/04|Easy|
 |344|[Reverse String][344]|[Java](LeetCode_344_ReverseString.Java)|2018/01/09|Easy|
+|345|[Reverse Vowels of a String][345]|[Java](LeetCode_345_ReverseVowelsofaString.Java)|2018/01/11|Easy|
 |434|[Number of Segments in a String][434]|[Java](LeetCode_434_NumberofSegmentsinaString.Java)|2018/01/08|Easy|
 |520|[Detect Capital][520]|[Java](LeetCode_520_DetectCapital.Java)|2018/01/07|Easy|
 |521|[Longest Uncommon Subsequence I][521]|[Java](LeetCode_521_LongestUncommonSubsequenceI.Java)|2018/01/07|Easy|
@@ -132,6 +133,7 @@ LeetCode solutions in Java.
 [268]:https://leetcode.com/problems/missing-number/description/
 [283]:https://leetcode.com/problems/move-zeroes/
 [344]:https://leetcode.com/problems/reverse-string/description/
+[345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/

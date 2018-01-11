@@ -2,6 +2,7 @@ The solutions for leetcode.com.
 ========================
 LeetCode solutions in Java.
 
+
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |001|[Two Sum][001]|[Java](LeetCode_001_TwoSum.Java)|2017/12/15|Easy|

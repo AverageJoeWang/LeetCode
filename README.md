@@ -95,6 +95,7 @@ LeetCode solutions in Java.
 |383|[Ransom Note][383]|[Java](LeetCode_383_RansomNote.Java)|2018/01/12|Easy|
 |387|[First Unique Character in a String][387]|[Java](LeetCode_387_FirstUniqueCharacterinaString.Java)|2018/01/14|Easy|
 |434|[Number of Segments in a String][434]|[Java](LeetCode_434_NumberofSegmentsinaString.Java)|2018/01/08|Easy|
+|443|[String Compression][443]|[Java](LeetCode_443_StringCompression.Java)|2018/01/14|Easy|
 |520|[Detect Capital][520]|[Java](LeetCode_520_DetectCapital.Java)|2018/01/07|Easy|
 |521|[Longest Uncommon Subsequence I][521]|[Java](LeetCode_521_LongestUncommonSubsequenceI.Java)|2018/01/07|Easy|
 |541|[Reverse String II][541]|[Java](LeetCode_541_ReverseStringII.Java)|2018/01/05|Easy|
@@ -141,6 +142,7 @@ LeetCode solutions in Java.
 [387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
+[443]:https://leetcode.com/problems/string-compression/description/
 [448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
 [520]:https://leetcode.com/problems/detect-capital/description/

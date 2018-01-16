@@ -104,6 +104,7 @@ LeetCode solutions in Java.
 |557|[Reverse Words in a String III][557]|[Java](LeetCode_557_ReverseWordsinaStringIII.Java)|2018/01/05|Easy|
 |606|[onstruct String from Binary Tree][606]|[Java](LeetCode_606_ConstructStringfromBinaryTree.Java)|2018/01/05|Easy|
 |657|[Judge Route Circle][657]|[Java](LeetCode_657_JudgeRouteCircle.Java)|2018/01/05|Easy|
+|680|[][680]|[Java](LeetCode_680_ValidPalindromeII.Java)|2018/01/16|Easy|
 |686|[Repeated String Match][686]|[Java](LeetCode_686_RepeatedStringMatch.Java)|2018/01/02|Easy|
 |696|[Count Binary Substrings][696]|[Java](LeetCode_696_CountBinarySubstrings.Java)|2018/01/13|Easy|
 
@@ -163,6 +164,7 @@ LeetCode solutions in Java.
 [657]:https://leetcode.com/problems/judge-route-circle/description/
 [665]:https://leetcode.com/problems/non-decreasing-array/description/
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
+[680]:https://leetcode.com/problems/valid-palindrome-ii/description/
 [686]:https://leetcode.com/problems/repeated-string-match/description/
 [696]:https://leetcode.com/problems/count-binary-substrings/description/
 [697]:https://leetcode.com/problems/degree-of-an-array/

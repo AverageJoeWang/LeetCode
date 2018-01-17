@@ -2,44 +2,6 @@ The solutions for leetcode.com.
 ========================
 LeetCode solutions in Java.
 
-
-|NO.|Title|Solution|Add Date|Difficulty|
-|---|-----|--------|--------|----------|
-|001|[Two Sum][001]|[Java](LeetCode_001_TwoSum.Java)|2017/12/15|Easy|
-|026|[Remove Duplicates from Sorted Array][026]|[Java](LeetCode_026_RemoveDuplicatesfromSortedArraym.Java)|2017/12/21|Easy|
-|027|[Remove Element][027]|[Java](LeetCode_027_RemoveElement.Java)|2017/12/21|Easy|
-|035|[Search Insert Position][035]|[Java](LeetCode_035_SearchInsertPosition.Java)|2017/12/24|Easy|
-|053|[Maximum Subarray][053]|[Java](LeetCode_053_MaximumSubarray.Java)|2017/12/30|Easy|
-|066|[Plus One][066]|[Java](LeetCode_066_PlusOne.Java)|2017/12/29|Easy|
-|088|[Merge Sorted Array][088]|Method1:[Java1](LeetCode_088_MergeSortedArray.Java) Method2:[Java2](LeetCode_088_MergeSortedArray_with_NoMoreSpace.Java)|2017/12/15|Easy|
-|118|[Pascal's Triangle][118]|[Java](LeetCode_118_PascalssTriangle.Java)|2017/12/20|Easy|
-|119|[Pascal's Triangle II][119]|[Java](LeetCode_118_PascalsTriangle.Java)|2017/12/21|Easy|
-|121|[Best Time to Buy and Sell Stock][121]|[Java](LeetCode_121_BestTimetoBuyandSellStock.Java)|2017/12/23|Easy|
-|122|[Best Time to Buy and Sell Stock II][122]|[Java](LeetCode_122_BestTimetoBuyandSellStockII.Java)|2017/12/24|Easy|
-|167|[Two Sum II - Input array is sorted][167]|[Java](LeetCode_167_TwoSumII_InputArrayisSorted.Java)|2017/12/30|Easy|
-|169|[Majority Element][169]|[Java](LeetCode_169_MajorityElement.Java)|2017/12/30|Easy|
-|189|[ Rotate Array][189]|[Java](LeetCode_189_RotateArray.Java)|2017/12/30|Easy|
-|217|[Contains Duplicate][217]|[Java](LeetCode_217_ContainsDuplicate.Java)|2017/12/27|Easy|
-|219|[Contains Duplicate II][219]|[Java](LeetCode_219_ContainsDuplicateII.Java)|2017/12/28|Easy|
-|268|[Missing Number][268]|method1:[Java1](LeetCode_268_MissingNumber.Java)method2:[Java2](LeetCode_268_MissingNumber_2.Java)|2017/12/18|Easy|
-|283|[Move Zeroes][283]|[Java](LeetCode_283_MoveZeroes.Java)|2017/12/18|Easy|
-|414|[Third Maximum Number][414]|[Java](LeetCode_414_ThirdMaximumNumber.Java)|2017/12/26|Easy|
-|448|[Find All Numbers Disappeared in an Array][448]|[Java](LeetCode_448_FindAllNumbersDisappearedinanArray.Java)|2017/12/26|Easy|
-|485|[Max Consecutive Ones][485]|[Java](LeetCode_485_MaxConsecutiveOnes.Java)|2017/12/26|Easy|
-|532|[K-diff Pairs in an Array][532]|[Java](LeetCode_532_KdiffPairsinanArray.Java)|2017/12/31|Easy|
-|561|[Array Partition I][561]|[Java](LeetCode_561_ArrayPartitionI.Java)|2017/12/28|Easy|
-|566|[Reshape the Matrix][566]|[Java](LeetCode_566_ReshapetheMatrix.Java)|2017/12/28|Easy|
-|581|[ Shortest Unsorted Continuous Subarray][581]|[Java](LeetCode_581_ShortestUnsortedContinuousSubarray.Java)|2017/12/19|Easy|
-|605|[ Can Place Flowers][605]|[Java](LeetCode_605_CanPlaceFlowers.Java)|2017/12/22|Easy|
-|628|[ Maximum Product of Three Numbers][628]|[Java](LeetCode_628_MaximumProductofThreeNumbers.Java)|2017/12/28|Easy|
-|643|[Maximum Average Subarray I][643]|[Java](LeetCode_643_MaximumAverageSubarrayI.Java)|2017/12/30|Easy|
-|665|[Non-decreasing Array][665]|[Java](LeetCode_665_NonDecreasingArray.Java)|2017/12/28|Easy|
-|674|[Longest Continuous Increasing Subsequence][674]|[Java](LeetCode_674_LongestContinuousIncreasingSubsequence.Java)|2017/12/25|Easy|
-|697|[Degree of an Array][697]|[Java](LeetCode_697_DegreeofanArray.Java)|2017/12/17|Easy|
-|717|[1-bit and 2-bit Characters][717]|method1:[Java](LeetCode_717_1bit_and_2bitCharacters.Java)method2:[Java](LeetCode_717_1bit_and_2bitCharacters_2.Java)|2017/12/16|Easy|
-|724|[Find Pivot Index][724]|[Java](LeetCode_724_FindPivotIndex.Java)|2017/12/25|Easy|
-|747|[Largest Number Greater Than Twice of Others][747]|[Java](LeetCode_747_LargestNumberGreaterThanTwiceofOthers.Java)|2017/12/25|Easy|
-
 ## tags:Array
 
 |NO.|Title|Solution|Add Date|Difficulty|
@@ -108,6 +70,12 @@ LeetCode solutions in Java.
 |686|[Repeated String Match][686]|[Java](LeetCode_686_RepeatedStringMatch.Java)|2018/01/02|Easy|
 |696|[Count Binary Substrings][696]|[Java](LeetCode_696_CountBinarySubstrings.Java)|2018/01/13|Easy|
 
+## Tree
+
+
+|NO.|Title|Solution|Add Date|Difficulty|
+|---|-----|--------|--------|----------|
+|538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/17|Easy|
 
 
 
@@ -151,6 +119,7 @@ LeetCode solutions in Java.
 [520]:https://leetcode.com/problems/detect-capital/description/
 [521]:https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
 [532]:https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
+[538]:https://leetcode.com/problems/convert-bst-to-greater-tree/description/
 [541]:https://leetcode.com/problems/reverse-string-ii/description/
 [551]:https://leetcode.com/problems/student-attendance-record-i/description/
 [557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/

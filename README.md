@@ -75,9 +75,11 @@ LeetCode solutions in Java.
 
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
-|538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/17|Easy|
 |100|[Same Tree][100]|[Java](LeetCode_100_SameTree.Java)|2018/01/18|Easy|
 |108|[Convert Sorted Array to Binary Search Tree][108]|[Java](LeetCode_108_ConvertSortedArraytoBinarySearchTree.Java)|2018/01/18|Easy|
+|538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/17|Easy|
+|653|[Two Sum IV - Input is a BST][653]|[Java](LeetCode_653_TwoSumIVInputisaBST.Java)|2018/01/19|Easy|
+
 
 
 
@@ -135,6 +137,7 @@ LeetCode solutions in Java.
 [606]:https://leetcode.com/problems/construct-string-from-binary-tree/description/
 [628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [643]:https://leetcode.com/problems/maximum-average-subarray-i/description/
+[653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
 [665]:https://leetcode.com/problems/non-decreasing-array/description/
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/

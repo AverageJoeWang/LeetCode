@@ -77,7 +77,8 @@ LeetCode solutions in Java.
 |---|-----|--------|--------|----------|
 |100|[Same Tree][100]|[Java](LeetCode_100_SameTree.Java)|2018/01/18|Easy|
 |108|[Convert Sorted Array to Binary Search Tree][108]|[Java](LeetCode_108_ConvertSortedArraytoBinarySearchTree.Java)|2018/01/18|Easy|
-|538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/17|Easy|
+|538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/19|Easy|
+|637|[Average of Levels in Binary Tree][637]|[Java](LeetCode_637_AverageofLevelsinBinaryTree.Java)|2018/01/19|Easy|
 |653|[Two Sum IV - Input is a BST][653]|[Java](LeetCode_653_TwoSumIVInputisaBST.Java)|2018/01/19|Easy|
 
 
@@ -136,6 +137,7 @@ LeetCode solutions in Java.
 [605]:https://leetcode.com/problems/can-place-flowers/description/
 [606]:https://leetcode.com/problems/construct-string-from-binary-tree/description/
 [628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+[637]:https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
 [643]:https://leetcode.com/problems/maximum-average-subarray-i/description/
 [653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/

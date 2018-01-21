@@ -1,4 +1,4 @@
-The solutions for leetcode.com.
+The solutions for leetcode.com
 ========================
 LeetCode solutions in Java.
 
@@ -78,6 +78,7 @@ LeetCode solutions in Java.
 |100|[Same Tree][100]|[Java](LeetCode_100_SameTree.Java)|2018/01/18|Easy|
 |108|[Convert Sorted Array to Binary Search Tree][108]|[Java](LeetCode_108_ConvertSortedArraytoBinarySearchTree.Java)|2018/01/18|Easy|
 |226|[Invert Binary Tree][226]|[Java](LeetCode_226_InvertBinaryTree.Java)|2018/01/20|Easy|
+|257|[Binary Tree Paths][257]|[Java](LeetCode_257_BinaryTreePaths.Java)|2018/01/21|Easy|
 |538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/19|Easy|
 |637|[Average of Levels in Binary Tree][637]|[Java](LeetCode_637_AverageofLevelsinBinaryTree.Java)|2018/01/19|Easy|
 |653|[Two Sum IV - Input is a BST][653]|[Java](LeetCode_653_TwoSumIVInputisaBST.Java)|2018/01/19|Easy|
@@ -114,6 +115,7 @@ LeetCode solutions in Java.
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [219]:https://leetcode.com/problems/contains-duplicate-ii/description/
 [226]:https://leetcode.com/problems/invert-binary-tree/description/
+[257]:https://leetcode.com/problems/binary-tree-paths/description/
 [268]:https://leetcode.com/problems/missing-number/description/
 [283]:https://leetcode.com/problems/move-zeroes/
 [344]:https://leetcode.com/problems/reverse-string/description/

@@ -83,6 +83,7 @@ LeetCode solutions in Java.
 |538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/19|Easy|
 |637|[Average of Levels in Binary Tree][637]|[Java](LeetCode_637_AverageofLevelsinBinaryTree.Java)|2018/01/19|Easy|
 |653|[Two Sum IV - Input is a BST][653]|[Java](LeetCode_653_TwoSumIVInputisaBST.Java)|2018/01/19|Easy|
+|687|[687. ][687]|[Java](LeetCode_687_LongestUnivaluePath.Java)|2018/01/23|Easy|
 
 
 
@@ -151,6 +152,7 @@ LeetCode solutions in Java.
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [680]:https://leetcode.com/problems/valid-palindrome-ii/description/
 [686]:https://leetcode.com/problems/repeated-string-match/description/
+[687]:https://leetcode.com/problems/longest-univalue-path/description/
 [696]:https://leetcode.com/problems/count-binary-substrings/description/
 [697]:https://leetcode.com/problems/degree-of-an-array/
 [717]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/

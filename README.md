@@ -77,6 +77,7 @@ LeetCode solutions in Java.
 |---|-----|--------|--------|----------|
 |100|[Same Tree][100]|[Java](LeetCode_100_SameTree.Java)|2018/01/18|Easy|
 |101|[Symmetric Tree][101]|[Java](LeetCode_101_SymmetricTree.Java)|2018/01/22|Easy|
+|104|[Maximum Depth of Binary Tree][104]|[Java](LeetCode_104_MaximumDepthofBinaryTree.Java)|2018/01/24|Easy|
 |108|[Convert Sorted Array to Binary Search Tree][108]|[Java](LeetCode_108_ConvertSortedArraytoBinarySearchTree.Java)|2018/01/18|Easy|
 |226|[Invert Binary Tree][226]|[Java](LeetCode_226_InvertBinaryTree.Java)|2018/01/20|Easy|
 |257|[Binary Tree Paths][257]|[Java](LeetCode_257_BinaryTreePaths.Java)|2018/01/21|Easy|
@@ -107,6 +108,7 @@ LeetCode solutions in Java.
 [088]:https://leetcode.com/problems/merge-sorted-array/description/
 [100]:https://leetcode.com/problems/same-tree/
 [101]:https://leetcode.com/problems/symmetric-tree/description/
+[104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [108]:https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
 [118]:https://leetcode.com/problems/pascals-triangle/description/
 [119]:https://leetcode.com/problems/pascals-triangle-ii/description/

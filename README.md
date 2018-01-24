@@ -81,6 +81,7 @@ LeetCode solutions in Java.
 |226|[Invert Binary Tree][226]|[Java](LeetCode_226_InvertBinaryTree.Java)|2018/01/20|Easy|
 |257|[Binary Tree Paths][257]|[Java](LeetCode_257_BinaryTreePaths.Java)|2018/01/21|Easy|
 |538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/19|Easy|
+|617|[Merge Two Binary Trees][617]|[Java](LeetCode_617_MergeTwoBinaryTrees.Java)|2018/01/24|Easy|
 |637|[Average of Levels in Binary Tree][637]|[Java](LeetCode_637_AverageofLevelsinBinaryTree.Java)|2018/01/19|Easy|
 |653|[Two Sum IV - Input is a BST][653]|[Java](LeetCode_653_TwoSumIVInputisaBST.Java)|2018/01/19|Easy|
 |687|[687. ][687]|[Java](LeetCode_687_LongestUnivaluePath.Java)|2018/01/23|Easy|
@@ -143,6 +144,7 @@ LeetCode solutions in Java.
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 [605]:https://leetcode.com/problems/can-place-flowers/description/
 [606]:https://leetcode.com/problems/construct-string-from-binary-tree/description/
+[617]:https://leetcode.com/problems/merge-two-binary-trees/description/
 [628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [637]:https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
 [643]:https://leetcode.com/problems/maximum-average-subarray-i/description/

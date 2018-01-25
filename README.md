@@ -85,7 +85,8 @@ LeetCode solutions in Java.
 |617|[Merge Two Binary Trees][617]|[Java](LeetCode_617_MergeTwoBinaryTrees.Java)|2018/01/24|Easy|
 |637|[Average of Levels in Binary Tree][637]|[Java](LeetCode_637_AverageofLevelsinBinaryTree.Java)|2018/01/19|Easy|
 |653|[Two Sum IV - Input is a BST][653]|[Java](LeetCode_653_TwoSumIVInputisaBST.Java)|2018/01/19|Easy|
-|687|[687. ][687]|[Java](LeetCode_687_LongestUnivaluePath.Java)|2018/01/23|Easy|
+|669|[Trim a Binary Search Tree][669]|[Java](LeetCode_669_TrimaBinarySearchTree.Java)|2018/01/25|Easy|
+|687|[Longest Univalue Path][687]|[Java](LeetCode_687_LongestUnivaluePath.Java)|2018/01/23|Easy|
 
 
 
@@ -153,6 +154,7 @@ LeetCode solutions in Java.
 [653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
 [665]:https://leetcode.com/problems/non-decreasing-array/description/
+[669]:https://leetcode.com/problems/trim-a-binary-search-tree/description/
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [680]:https://leetcode.com/problems/valid-palindrome-ii/description/
 [686]:https://leetcode.com/problems/repeated-string-match/description/

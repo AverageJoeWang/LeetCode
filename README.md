@@ -81,6 +81,7 @@ LeetCode solutions in Java.
 |108|[Convert Sorted Array to Binary Search Tree][108]|[Java](LeetCode_108_ConvertSortedArraytoBinarySearchTree.Java)|2018/01/18|Easy|
 |226|[Invert Binary Tree][226]|[Java](LeetCode_226_InvertBinaryTree.Java)|2018/01/20|Easy|
 |257|[Binary Tree Paths][257]|[Java](LeetCode_257_BinaryTreePaths.Java)|2018/01/21|Easy|
+|404|[Sum of Left Leaves][404]|[Java](LeetCode_404_SumofLeftLeaves.Java)|2018/01/26|Easy|
 |538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/19|Easy|
 |617|[Merge Two Binary Trees][617]|[Java](LeetCode_617_MergeTwoBinaryTrees.Java)|2018/01/24|Easy|
 |637|[Average of Levels in Binary Tree][637]|[Java](LeetCode_637_AverageofLevelsinBinaryTree.Java)|2018/01/19|Easy|
@@ -129,6 +130,7 @@ LeetCode solutions in Java.
 [345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 [383]:https://leetcode.com/problems/ransom-note/description/
 [387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
+[404]:https://leetcode.com/problems/sum-of-left-leaves/description/
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [443]:https://leetcode.com/problems/string-compression/description/

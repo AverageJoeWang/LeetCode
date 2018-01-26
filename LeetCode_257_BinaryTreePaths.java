@@ -8,8 +8,8 @@ import java.util.*;
 public class LeetCode_257_BinaryTreePaths {
     public class TreeNode{
         int val;
-        LeetCode_226_InvertBinaryTree.TreeNode left;
-        LeetCode_226_InvertBinaryTree.TreeNode right;
+        TreeNode left;
+        TreeNode right;
         TreeNode(int x){val = x;}
     }
     List<String> result = new LinkedList<>();

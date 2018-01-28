@@ -79,6 +79,8 @@ LeetCode solutions in Java.
 |101|[Symmetric Tree][101]|[Java](LeetCode_101_SymmetricTree.Java)|2018/01/22|Easy|
 |104|[Maximum Depth of Binary Tree][104]|[Java](LeetCode_104_MaximumDepthofBinaryTree.Java)|2018/01/24|Easy|
 |108|[Convert Sorted Array to Binary Search Tree][108]|[Java](LeetCode_108_ConvertSortedArraytoBinarySearchTree.Java)|2018/01/18|Easy|
+|111|[Minimum Depth of Binary Tree][111]|[Java](LeetCode_111_MinimumDepthofBinaryTree.Java)|2018/01/28|Easy|
+|112|[Path Sum][112]|[Java](LeetCode_112_PathSum.Java)|2018/01/28|Easy|
 |226|[Invert Binary Tree][226]|[Java](LeetCode_226_InvertBinaryTree.Java)|2018/01/20|Easy|
 |257|[Binary Tree Paths][257]|[Java](LeetCode_257_BinaryTreePaths.Java)|2018/01/21|Easy|
 |404|[Sum of Left Leaves][404]|[Java](LeetCode_404_SumofLeftLeaves.Java)|2018/01/26|Easy|
@@ -113,6 +115,8 @@ LeetCode solutions in Java.
 [101]:https://leetcode.com/problems/symmetric-tree/description/
 [104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [108]:https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+[111]:https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+[112]:https://leetcode.com/problems/path-sum/description/
 [118]:https://leetcode.com/problems/pascals-triangle/description/
 [119]:https://leetcode.com/problems/pascals-triangle-ii/description/
 [121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/

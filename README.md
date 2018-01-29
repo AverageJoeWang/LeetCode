@@ -86,6 +86,8 @@ LeetCode solutions in Java.
 |404|[Sum of Left Leaves][404]|[Java](LeetCode_404_SumofLeftLeaves.Java)|2018/01/26|Easy|
 |437|[Path Sum III][437]|[Java](LeetCode_437_PathSumIII.Java)|2018/01/26|Easy|
 |538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/19|Easy|
+|563|[Binary Tree Tilt][563]|[Java](LeetCode_563_BinaryTreeTilt.Java)|2018/01/29|Easy|
+|572|[Subtree of Another Tree][572]|[Java](LeetCode_572_SubtreeofAnotherTree.Java)|2018/01/29|Easy|
 |617|[Merge Two Binary Trees][617]|[Java](LeetCode_617_MergeTwoBinaryTrees.Java)|2018/01/24|Easy|
 |637|[Average of Levels in Binary Tree][637]|[Java](LeetCode_637_AverageofLevelsinBinaryTree.Java)|2018/01/19|Easy|
 |653|[Two Sum IV - Input is a BST][653]|[Java](LeetCode_653_TwoSumIVInputisaBST.Java)|2018/01/19|Easy|
@@ -151,7 +153,9 @@ LeetCode solutions in Java.
 [551]:https://leetcode.com/problems/student-attendance-record-i/description/
 [557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/
+[563]:https://leetcode.com/problems/binary-tree-tilt/description/
 [566]:https://leetcode.com/problems/reshape-the-matrix/description/
+[572]:https://leetcode.com/problems/subtree-of-another-tree/description/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 [605]:https://leetcode.com/problems/can-place-flowers/description/
 [606]:https://leetcode.com/problems/construct-string-from-binary-tree/description/

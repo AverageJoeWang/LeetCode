@@ -85,6 +85,7 @@ LeetCode solutions in Java.
 |257|[Binary Tree Paths][257]|[Java](LeetCode_257_BinaryTreePaths.Java)|2018/01/21|Easy|
 |404|[Sum of Left Leaves][404]|[Java](LeetCode_404_SumofLeftLeaves.Java)|2018/01/26|Easy|
 |437|[Path Sum III][437]|[Java](LeetCode_437_PathSumIII.Java)|2018/01/26|Easy|
+|501|[][501]|[Java](.Java)|2018/01/30|Easy|
 |538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/19|Easy|
 |563|[Binary Tree Tilt][563]|[Java](LeetCode_563_BinaryTreeTilt.Java)|2018/01/29|Easy|
 |572|[Subtree of Another Tree][572]|[Java](LeetCode_572_SubtreeofAnotherTree.Java)|2018/01/29|Easy|
@@ -92,6 +93,7 @@ LeetCode solutions in Java.
 |637|[Average of Levels in Binary Tree][637]|[Java](LeetCode_637_AverageofLevelsinBinaryTree.Java)|2018/01/19|Easy|
 |653|[Two Sum IV - Input is a BST][653]|[Java](LeetCode_653_TwoSumIVInputisaBST.Java)|2018/01/19|Easy|
 |669|[Trim a Binary Search Tree][669]|[Java](LeetCode_669_TrimaBinarySearchTree.Java)|2018/01/25|Easy|
+|671|[Second Minimum Node In a Binary Tree][671]|[Java](LeetCode_671_SecondMinimumNodeInaBinaryTree.Java)|2018/01/30|Easy|
 |687|[Longest Univalue Path][687]|[Java](LeetCode_687_LongestUnivaluePath.Java)|2018/01/23|Easy|
 
 
@@ -145,6 +147,7 @@ LeetCode solutions in Java.
 [448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [459]:https://leetcode.com/problems/repeated-substring-pattern/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
+[501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
 [520]:https://leetcode.com/problems/detect-capital/description/
 [521]:https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
 [532]:https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
@@ -167,6 +170,7 @@ LeetCode solutions in Java.
 [657]:https://leetcode.com/problems/judge-route-circle/description/
 [665]:https://leetcode.com/problems/non-decreasing-array/description/
 [669]:https://leetcode.com/problems/trim-a-binary-search-tree/description/
+[671]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [680]:https://leetcode.com/problems/valid-palindrome-ii/description/
 [686]:https://leetcode.com/problems/repeated-string-match/description/

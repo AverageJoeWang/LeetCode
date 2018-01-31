@@ -79,14 +79,16 @@ LeetCode solutions in Java.
 |101|[Symmetric Tree][101]|[Java](LeetCode_101_SymmetricTree.Java)|2018/01/22|Easy|
 |104|[Maximum Depth of Binary Tree][104]|[Java](LeetCode_104_MaximumDepthofBinaryTree.Java)|2018/01/24|Easy|
 |108|[Convert Sorted Array to Binary Search Tree][108]|[Java](LeetCode_108_ConvertSortedArraytoBinarySearchTree.Java)|2018/01/18|Easy|
+|110|[Balanced Binary Tree][110]|[Java](LeetCode_110_DiameterofBinaryTree.Java)|2018/01/31|Easy|
 |111|[Minimum Depth of Binary Tree][111]|[Java](LeetCode_111_MinimumDepthofBinaryTree.Java)|2018/01/28|Easy|
 |112|[Path Sum][112]|[Java](LeetCode_112_PathSum.Java)|2018/01/28|Easy|
 |226|[Invert Binary Tree][226]|[Java](LeetCode_226_InvertBinaryTree.Java)|2018/01/20|Easy|
 |257|[Binary Tree Paths][257]|[Java](LeetCode_257_BinaryTreePaths.Java)|2018/01/21|Easy|
 |404|[Sum of Left Leaves][404]|[Java](LeetCode_404_SumofLeftLeaves.Java)|2018/01/26|Easy|
 |437|[Path Sum III][437]|[Java](LeetCode_437_PathSumIII.Java)|2018/01/26|Easy|
-|501|[][501]|[Java](.Java)|2018/01/30|Easy|
+|501|[Find Mode in Binary Search Tree][501]|[Java](LeetCode_501_FindModeinBinarySearchTree.Java)|2018/01/30|Easy|
 |538|[Convert BST to Greater Tree][538]|[Java](LeetCode_538_ConvertBSTtoGreaterTree.Java)|2018/01/19|Easy|
+|543|[Diameter of Binary Tree][543]|[Java](LeetCode_543_DiameterofBinaryTree.Java)|2018/01/31|Easy|
 |563|[Binary Tree Tilt][563]|[Java](LeetCode_563_BinaryTreeTilt.Java)|2018/01/29|Easy|
 |572|[Subtree of Another Tree][572]|[Java](LeetCode_572_SubtreeofAnotherTree.Java)|2018/01/29|Easy|
 |617|[Merge Two Binary Trees][617]|[Java](LeetCode_617_MergeTwoBinaryTrees.Java)|2018/01/24|Easy|
@@ -153,6 +155,7 @@ LeetCode solutions in Java.
 [532]:https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
 [538]:https://leetcode.com/problems/convert-bst-to-greater-tree/description/
 [541]:https://leetcode.com/problems/reverse-string-ii/description/
+[543]:https://leetcode.com/problems/diameter-of-binary-tree/description/
 [551]:https://leetcode.com/problems/student-attendance-record-i/description/
 [557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [561]:https://leetcode.com/problems/array-partition-i/description/

@@ -102,6 +102,14 @@ LeetCode solutions in Java.
 |687|[Longest Univalue Path][687]|[Java](LeetCode_687_LongestUnivaluePath.Java)|2018/01/23|Easy|
 
 
+##  Linked List
+
+
+|NO.|Title|Solution|Add Date|Difficulty|
+|---|-----|--------|--------|----------|
+|141|[Linked List Cycle][141]|[Java](LeetCode_141_LinkedListCycle.Java)|2018/02/02|Easy|
+|142|[Linked List Cycle II][142]|[Java](LeetCode_142_LinkedListCycleII.Java)|2018/02/02|Medium|
+
 
 
 
@@ -132,6 +140,8 @@ LeetCode solutions in Java.
 [121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [122]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125]:https://leetcode.com/problems/valid-palindrome/description/
+[141]:https://leetcode.com/problems/linked-list-cycle/description/
+[142]:https://leetcode.com/problems/linked-list-cycle-ii/description/
 [167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [169]:https://leetcode.com/problems/majority-element/description/
 [189]:https://leetcode.com/problems/rotate-array/description/

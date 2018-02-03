@@ -109,6 +109,8 @@ LeetCode solutions in Java.
 |---|-----|--------|--------|----------|
 |141|[Linked List Cycle][141]|[Java](LeetCode_141_LinkedListCycle.Java)|2018/02/02|Easy|
 |142|[Linked List Cycle II][142]|[Java](LeetCode_142_LinkedListCycleII.Java)|2018/02/02|Medium|
+|203|[Remove Linked List Elements][203]|[Java](LeetCode_203_RemoveLinkedListElements.Java)|2018/02/03|Easy|
+|237|[Delete Node in a Linked List][237]|[Java](LeetCode_237_DeleteNodeinaLinkedList.Java)|2018/02/03|Easy|
 
 
 
@@ -145,10 +147,12 @@ LeetCode solutions in Java.
 [167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [169]:https://leetcode.com/problems/majority-element/description/
 [189]:https://leetcode.com/problems/rotate-array/description/
+[203]:https://leetcode.com/problems/remove-linked-list-elements/description/
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [219]:https://leetcode.com/problems/contains-duplicate-ii/description/
 [226]:https://leetcode.com/problems/invert-binary-tree/description/
 [235]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+[237]:https://leetcode.com/problems/delete-node-in-a-linked-list/description/
 [257]:https://leetcode.com/problems/binary-tree-paths/description/
 [268]:https://leetcode.com/problems/missing-number/description/
 [283]:https://leetcode.com/problems/move-zeroes/

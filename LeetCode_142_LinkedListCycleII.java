@@ -4,14 +4,6 @@
 
 
 public class LeetCode_142_LinkedListCycleII {
-    class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
     public ListNode detectCycle(ListNode head) {
         if (head == null) return null;
         ListNode fast = head;

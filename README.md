@@ -107,6 +107,7 @@ LeetCode solutions in Java.
 
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
+|083|[Remove Duplicates from Sorted List][083]|[Java](LeetCode_083_RemoveDuplicatesfromSortedList.Java)|2018/02/04|Easy|
 |141|[Linked List Cycle][141]|[Java](LeetCode_141_LinkedListCycle.Java)|2018/02/02|Easy|
 |142|[Linked List Cycle II][142]|[Java](LeetCode_142_LinkedListCycleII.Java)|2018/02/02|Medium|
 |203|[Remove Linked List Elements][203]|[Java](LeetCode_203_RemoveLinkedListElements.Java)|2018/02/03|Easy|
@@ -129,6 +130,7 @@ LeetCode solutions in Java.
 [058]:https://leetcode.com/problems/length-of-last-word/description/
 [066]:https://leetcode.com/problems/plus-one/description/
 [067]:https://leetcode.com/problems/add-binary/description/
+[083]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [088]:https://leetcode.com/problems/merge-sorted-array/description/
 [100]:https://leetcode.com/problems/same-tree/
 [101]:https://leetcode.com/problems/symmetric-tree/description/

@@ -107,6 +107,7 @@ LeetCode solutions in Java.
 
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
+|021|[Merge Two Sorted Lists][021]|[Java](LeetCode_021_MergeTwoSortedLists.Java)|2018/02/04|Easy|
 |083|[Remove Duplicates from Sorted List][083]|[Java](LeetCode_083_RemoveDuplicatesfromSortedList.Java)|2018/02/04|Easy|
 |141|[Linked List Cycle][141]|[Java](LeetCode_141_LinkedListCycle.Java)|2018/02/02|Easy|
 |142|[Linked List Cycle II][142]|[Java](LeetCode_142_LinkedListCycleII.Java)|2018/02/02|Medium|
@@ -121,6 +122,7 @@ LeetCode solutions in Java.
 [013]:https://leetcode.com/problems/roman-to-integer/description/
 [014]:https://leetcode.com/problems/longest-common-prefix/description/
 [020]:https://leetcode.com/problems/valid-parentheses/description/
+[021]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [026]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [027]:https://leetcode.com/problems/remove-element/description/
 [028]:https://leetcode.com/problems/implement-strstr/description/

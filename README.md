@@ -111,7 +111,9 @@ LeetCode solutions in Java.
 |083|[Remove Duplicates from Sorted List][083]|[Java](LeetCode_083_RemoveDuplicatesfromSortedList.Java)|2018/02/04|Easy|
 |141|[Linked List Cycle][141]|[Java](LeetCode_141_LinkedListCycle.Java)|2018/02/02|Easy|
 |142|[Linked List Cycle II][142]|[Java](LeetCode_142_LinkedListCycleII.Java)|2018/02/02|Medium|
+|160|[Intersection of Two Linked Lists][160]|[Java](LeetCode_160_IntersectionofTwoLinkedLists.Java)|2018/02/05|Easy|
 |203|[Remove Linked List Elements][203]|[Java](LeetCode_203_RemoveLinkedListElements.Java)|2018/02/03|Easy|
+|206|[Reverse Linked List][206]|[Java](LeetCode_206_ReverseLinkedList.Java)|2018/02/05|Easy|
 |237|[Delete Node in a Linked List][237]|[Java](LeetCode_237_DeleteNodeinaLinkedList.Java)|2018/02/03|Easy|
 
 
@@ -148,10 +150,12 @@ LeetCode solutions in Java.
 [125]:https://leetcode.com/problems/valid-palindrome/description/
 [141]:https://leetcode.com/problems/linked-list-cycle/description/
 [142]:https://leetcode.com/problems/linked-list-cycle-ii/description/
+[160]:https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 [167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [169]:https://leetcode.com/problems/majority-element/description/
 [189]:https://leetcode.com/problems/rotate-array/description/
 [203]:https://leetcode.com/problems/remove-linked-list-elements/description/
+[206]:https://leetcode.com/problems/reverse-linked-list/description/
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [219]:https://leetcode.com/problems/contains-duplicate-ii/description/
 [226]:https://leetcode.com/problems/invert-binary-tree/description/

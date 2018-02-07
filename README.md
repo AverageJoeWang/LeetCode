@@ -118,6 +118,14 @@ LeetCode solutions in Java.
 |237|[Delete Node in a Linked List][237]|[Java](LeetCode_237_DeleteNodeinaLinkedList.Java)|2018/02/03|Easy|
 
 
+# Math
+|NO.|Title|Solution|Add Date|Difficulty|
+|---|-----|--------|--------|----------|
+|441|[Arranging Coins][441]|[Java](LeetCode_441_ArrangingCoins.Java)|2018/02/07|Easy|
+|645|[Set Mismatch][645]|[Java](LeetCode_645_SetMismatch.Java)|2018/02/07|Easy|
+|728|[Self Dividing Numbers][728]|[Java](LeetCode_728_SelfDividingNumbers.Java)|2018/02/07|Easy|
+
+
 
 # extra
 |NO.|Title|Solution|Add Date|Difficulty|
@@ -179,6 +187,7 @@ LeetCode solutions in Java.
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [437]:https://leetcode.com/problems/path-sum-iii/description/
+[441]:https://leetcode.com/problems/arranging-coins/description/
 [443]:https://leetcode.com/problems/string-compression/description/
 [448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [459]:https://leetcode.com/problems/repeated-substring-pattern/description/
@@ -203,6 +212,7 @@ LeetCode solutions in Java.
 [628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [637]:https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
 [643]:https://leetcode.com/problems/maximum-average-subarray-i/description/
+[645]:https://leetcode.com/problems/set-mismatch/description/
 [653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
 [665]:https://leetcode.com/problems/non-decreasing-array/description/
@@ -216,6 +226,7 @@ LeetCode solutions in Java.
 [697]:https://leetcode.com/problems/degree-of-an-array/
 [717]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
 [724]:https://leetcode.com/problems/find-pivot-index/description/
+[728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [747]:https://leetcode.com/problems/largest-number-greater-than-twice-of-others/description/
 
 

@@ -122,6 +122,8 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |441|[Arranging Coins][441]|[Java](LeetCode_441_ArrangingCoins.Java)|2018/02/07|Easy|
+|598|[Range Addition II][598]|[Java](.Java)|2018/02/08|Easy|
+|633|[Sum of Square Numbers][633]|[Java](LeetCode_633_SumofSquareNumbers.Java)|2018/02/08|Easy|
 |645|[Set Mismatch][645]|[Java](LeetCode_645_SetMismatch.Java)|2018/02/07|Easy|
 |728|[Self Dividing Numbers][728]|[Java](LeetCode_728_SelfDividingNumbers.Java)|2018/02/07|Easy|
 
@@ -206,6 +208,7 @@ LeetCode solutions in Java.
 [566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [572]:https://leetcode.com/problems/subtree-of-another-tree/description/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
+[598]:https://leetcode.com/problems/range-addition-ii/description/
 [605]:https://leetcode.com/problems/can-place-flowers/description/
 [606]:https://leetcode.com/problems/construct-string-from-binary-tree/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
@@ -215,6 +218,7 @@ LeetCode solutions in Java.
 [645]:https://leetcode.com/problems/set-mismatch/description/
 [653]:https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 [657]:https://leetcode.com/problems/judge-route-circle/description/
+[633]:https://leetcode.com/problems/sum-of-square-numbers/description/
 [665]:https://leetcode.com/problems/non-decreasing-array/description/
 [669]:https://leetcode.com/problems/trim-a-binary-search-tree/description/
 [671]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/

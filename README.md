@@ -159,6 +159,7 @@ LeetCode solutions in Java.
 [104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [107]:https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/
 [108]:https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+[110]:https://leetcode.com/problems/balanced-binary-tree/description/
 [111]:https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
 [112]:https://leetcode.com/problems/path-sum/description/
 [118]:https://leetcode.com/problems/pascals-triangle/description/

@@ -122,7 +122,8 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |441|[Arranging Coins][441]|[Java](LeetCode_441_ArrangingCoins.Java)|2018/02/07|Easy|
-|598|[Range Addition II][598]|[Java](.Java)|2018/02/08|Easy|
+|507|[Perfect Number][507]|[Java](LeetCode_507_PerfectNumber.Java)|2018/02/09|Easy|
+|598|[Range Addition II][598]|[Java](LeetCode_598_RangeAdditionII.Java)|2018/02/08|Easy|
 |633|[Sum of Square Numbers][633]|[Java](LeetCode_633_SumofSquareNumbers.Java)|2018/02/08|Easy|
 |645|[Set Mismatch][645]|[Java](LeetCode_645_SetMismatch.Java)|2018/02/07|Easy|
 |728|[Self Dividing Numbers][728]|[Java](LeetCode_728_SelfDividingNumbers.Java)|2018/02/07|Easy|
@@ -195,6 +196,7 @@ LeetCode solutions in Java.
 [459]:https://leetcode.com/problems/repeated-substring-pattern/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
 [501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
+[507]:https://leetcode.com/problems/perfect-number/description/
 [520]:https://leetcode.com/problems/detect-capital/description/
 [521]:https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
 [532]:https://leetcode.com/problems/k-diff-pairs-in-an-array/description/

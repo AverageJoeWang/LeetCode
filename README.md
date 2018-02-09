@@ -59,7 +59,7 @@ LeetCode solutions in Java.
 |387|[First Unique Character in a String][387]|[Java](LeetCode_387_FirstUniqueCharacterinaString.Java)|2018/01/14|Easy|
 |434|[Number of Segments in a String][434]|[Java](LeetCode_434_NumberofSegmentsinaString.Java)|2018/01/08|Easy|
 |443|[String Compression][443]|[Java](LeetCode_443_StringCompression.Java)|2018/01/14|Easy|
-|459|[][459]|[Java](LeetCode_459_RepeatedSubstringPattern.Java)|2018/01/15|Easy|
+|459|[Repeated Substring Pattern][459]|[Java](LeetCode_459_RepeatedSubstringPattern.Java)|2018/01/15|Easy|
 |520|[Detect Capital][520]|[Java](LeetCode_520_DetectCapital.Java)|2018/01/07|Easy|
 |521|[Longest Uncommon Subsequence I][521]|[Java](LeetCode_521_LongestUncommonSubsequenceI.Java)|2018/01/07|Easy|
 |541|[Reverse String II][541]|[Java](LeetCode_541_ReverseStringII.Java)|2018/01/05|Easy|
@@ -67,7 +67,7 @@ LeetCode solutions in Java.
 |557|[Reverse Words in a String III][557]|[Java](LeetCode_557_ReverseWordsinaStringIII.Java)|2018/01/05|Easy|
 |606|[onstruct String from Binary Tree][606]|[Java](LeetCode_606_ConstructStringfromBinaryTree.Java)|2018/01/05|Easy|
 |657|[Judge Route Circle][657]|[Java](LeetCode_657_JudgeRouteCircle.Java)|2018/01/05|Easy|
-|680|[][680]|[Java](LeetCode_680_ValidPalindromeII.Java)|2018/01/16|Easy|
+|680|[Valid Palindrome II][680]|[Java](LeetCode_680_ValidPalindromeII.Java)|2018/01/16|Easy|
 |686|[Repeated String Match][686]|[Java](LeetCode_686_RepeatedStringMatch.Java)|2018/01/02|Easy|
 |696|[Count Binary Substrings][696]|[Java](LeetCode_696_CountBinarySubstrings.Java)|2018/01/13|Easy|
 
@@ -119,6 +119,7 @@ LeetCode solutions in Java.
 
 
 # Math
+
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |441|[Arranging Coins][441]|[Java](LeetCode_441_ArrangingCoins.Java)|2018/02/07|Easy|

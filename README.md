@@ -123,6 +123,10 @@ LeetCode solutions in Java.
 
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
+|007|[Reverse Integer][007]|[Java](LeetCode_007_ReverseInteger.Java)|2018/02/10|Easy|
+|231|[Power of Two][231]|[Java](LeetCode_231_PowerofTwo.Java)|2018/02/10|Easy|
+|258|[Add Digits][258]|[Java](LeetCode_258_AddDigits.Java)|2018/02/10|Easy|
+|326|[Power of Three][326]|[Java](LeetCode_326_PowerofThree.Java)|2018/02/10|Easy|
 |441|[Arranging Coins][441]|[Java](LeetCode_441_ArrangingCoins.Java)|2018/02/07|Easy|
 |507|[Perfect Number][507]|[Java](LeetCode_507_PerfectNumber.Java)|2018/02/09|Easy|
 |598|[Range Addition II][598]|[Java](LeetCode_598_RangeAdditionII.Java)|2018/02/08|Easy|
@@ -139,6 +143,7 @@ LeetCode solutions in Java.
 
 
 [001]:https://leetcode.com/problems/two-sum/description/
+[007]:https://leetcode.com/problems/reverse-integer/description/
 [009]:https://leetcode.com/problems/palindrome-number/description/
 [013]:https://leetcode.com/problems/roman-to-integer/description/
 [014]:https://leetcode.com/problems/longest-common-prefix/description/
@@ -179,12 +184,15 @@ LeetCode solutions in Java.
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [219]:https://leetcode.com/problems/contains-duplicate-ii/description/
 [226]:https://leetcode.com/problems/invert-binary-tree/description/
+[231]:https://leetcode.com/problems/power-of-two/description/
 [234]:https://leetcode.com/problems/palindrome-linked-list/description/
 [235]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
 [237]:https://leetcode.com/problems/delete-node-in-a-linked-list/description/
 [257]:https://leetcode.com/problems/binary-tree-paths/description/
+[258]:https://leetcode.com/problems/add-digits/description/
 [268]:https://leetcode.com/problems/missing-number/description/
 [283]:https://leetcode.com/problems/move-zeroes/
+[326]:https://leetcode.com/problems/power-of-three/description/
 [344]:https://leetcode.com/problems/reverse-string/description/
 [345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 [383]:https://leetcode.com/problems/ransom-note/description/

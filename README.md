@@ -127,7 +127,9 @@ LeetCode solutions in Java.
 |231|[Power of Two][231]|[Java](LeetCode_231_PowerofTwo.Java)|2018/02/10|Easy|
 |258|[Add Digits][258]|[Java](LeetCode_258_AddDigits.Java)|2018/02/10|Easy|
 |326|[Power of Three][326]|[Java](LeetCode_326_PowerofThree.Java)|2018/02/10|Easy|
+|400|[Nth Digit][400]|[Java](LeetCode_400_NthDigit.Java)|2018/02/11|Easy|
 |441|[Arranging Coins][441]|[Java](LeetCode_441_ArrangingCoins.Java)|2018/02/07|Easy|
+|453|[Minimum Moves to Equal Array Elements][453]|[Java](LeetCode_453_MinimumMovestoEqualArrayElements.Java)|2018/02/11|Easy|
 |507|[Perfect Number][507]|[Java](LeetCode_507_PerfectNumber.Java)|2018/02/09|Easy|
 |598|[Range Addition II][598]|[Java](LeetCode_598_RangeAdditionII.Java)|2018/02/08|Easy|
 |633|[Sum of Square Numbers][633]|[Java](LeetCode_633_SumofSquareNumbers.Java)|2018/02/08|Easy|
@@ -197,6 +199,7 @@ LeetCode solutions in Java.
 [345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 [383]:https://leetcode.com/problems/ransom-note/description/
 [387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
+[400]:https://leetcode.com/problems/nth-digit/description/
 [404]:https://leetcode.com/problems/sum-of-left-leaves/description/
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
@@ -204,6 +207,7 @@ LeetCode solutions in Java.
 [441]:https://leetcode.com/problems/arranging-coins/description/
 [443]:https://leetcode.com/problems/string-compression/description/
 [448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+[453]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
 [459]:https://leetcode.com/problems/repeated-substring-pattern/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
 [501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/

@@ -124,9 +124,13 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |007|[Reverse Integer][007]|[Java](LeetCode_007_ReverseInteger.Java)|2018/02/10|Easy|
+|069|[Sqrt(x)][069]|[Java](LeetCode_069_SqrtX.Java)|2018/02/12|Easy|
+|202|[Happy Number][202]|[Java](LeetCode_202_HappyNumber.Java)|2018/02/12|Easy|
 |231|[Power of Two][231]|[Java](LeetCode_231_PowerofTwo.Java)|2018/02/10|Easy|
 |258|[Add Digits][258]|[Java](LeetCode_258_AddDigits.Java)|2018/02/10|Easy|
+|263|[Ugly Number][263]|[Java](LeetCode_263_UglyNumber.Java)|2018/02/12|Easy|
 |326|[Power of Three][326]|[Java](LeetCode_326_PowerofThree.Java)|2018/02/10|Easy|
+|367|[Valid Perfect Square][367]|[Java](LeetCode_367_ValidPerfectSquare.Java)|2018/02/12|Easy|
 |400|[Nth Digit][400]|[Java](LeetCode_400_NthDigit.Java)|2018/02/11|Easy|
 |441|[Arranging Coins][441]|[Java](LeetCode_441_ArrangingCoins.Java)|2018/02/07|Easy|
 |453|[Minimum Moves to Equal Array Elements][453]|[Java](LeetCode_453_MinimumMovestoEqualArrayElements.Java)|2018/02/11|Easy|
@@ -160,6 +164,7 @@ LeetCode solutions in Java.
 [058]:https://leetcode.com/problems/length-of-last-word/description/
 [066]:https://leetcode.com/problems/plus-one/description/
 [067]:https://leetcode.com/problems/add-binary/description/
+[069]:https://leetcode.com/problems/sqrtx/description/
 [083]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [088]:https://leetcode.com/problems/merge-sorted-array/description/
 [100]:https://leetcode.com/problems/same-tree/
@@ -181,6 +186,7 @@ LeetCode solutions in Java.
 [167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [169]:https://leetcode.com/problems/majority-element/description/
 [189]:https://leetcode.com/problems/rotate-array/description/
+[202]:https://leetcode.com/problems/happy-number/description/
 [203]:https://leetcode.com/problems/remove-linked-list-elements/description/
 [206]:https://leetcode.com/problems/reverse-linked-list/description/
 [217]:https://leetcode.com/problems/contains-duplicate/description/
@@ -192,11 +198,13 @@ LeetCode solutions in Java.
 [237]:https://leetcode.com/problems/delete-node-in-a-linked-list/description/
 [257]:https://leetcode.com/problems/binary-tree-paths/description/
 [258]:https://leetcode.com/problems/add-digits/description/
+[263]:https://leetcode.com/problems/ugly-number/description/
 [268]:https://leetcode.com/problems/missing-number/description/
 [283]:https://leetcode.com/problems/move-zeroes/
 [326]:https://leetcode.com/problems/power-of-three/description/
 [344]:https://leetcode.com/problems/reverse-string/description/
 [345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+[367]:https://leetcode.com/problems/valid-perfect-square/description/
 [383]:https://leetcode.com/problems/ransom-note/description/
 [387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 [400]:https://leetcode.com/problems/nth-digit/description/

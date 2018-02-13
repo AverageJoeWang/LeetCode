@@ -127,7 +127,9 @@ LeetCode solutions in Java.
 |069|[Sqrt(x)][069]|[Java](LeetCode_069_SqrtX.Java)|2018/02/12|Easy|
 |168|[Excel Sheet Column Title][168]|[Java](LeetCode_168_ExcelSheetColumnTitle.Java)|2018/02/13|Easy|
 |171|[Excel Sheet Column Number][171]|[Java](LeetCode_171_ExcelSheetColumnNumber.Java)|2018/02/13|Easy|
+|172|[Factorial Trailing Zeroes][172]|[Java](LeetCode_172_FactorialTrailingZeroes.Java)|2018/02/13|Easy|
 |202|[Happy Number][202]|[Java](LeetCode_202_HappyNumber.Java)|2018/02/12|Easy|
+|204|[Count Primes][204]|[Java](LeetCode_204_CountPrimes.Java)|2018/02/13|Easy|
 |231|[Power of Two][231]|[Java](LeetCode_231_PowerofTwo.Java)|2018/02/10|Easy|
 |258|[Add Digits][258]|[Java](LeetCode_258_AddDigits.Java)|2018/02/10|Easy|
 |263|[Ugly Number][263]|[Java](LeetCode_263_UglyNumber.Java)|2018/02/12|Easy|
@@ -190,9 +192,11 @@ LeetCode solutions in Java.
 [168]:https://leetcode.com/problems/excel-sheet-column-title/description/
 [169]:https://leetcode.com/problems/majority-element/description/
 [171]:https://leetcode.com/problems/excel-sheet-column-number/description/
+[172]:https://leetcode.com/problems/factorial-trailing-zeroes/description/
 [189]:https://leetcode.com/problems/rotate-array/description/
 [202]:https://leetcode.com/problems/happy-number/description/
 [203]:https://leetcode.com/problems/remove-linked-list-elements/description/
+[204]:https://leetcode.com/problems/count-primes/description/
 [206]:https://leetcode.com/problems/reverse-linked-list/description/
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [219]:https://leetcode.com/problems/contains-duplicate-ii/description/

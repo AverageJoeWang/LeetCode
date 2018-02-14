@@ -16,7 +16,6 @@ LeetCode solutions in Java.
 |088|[Merge Sorted Array][088]|Method1:[Java1](LeetCode_088_MergeSortedArray.Java) Method2:[Java2](LeetCode_088_MergeSortedArray_with_NoMoreSpace.Java)|2017/12/15|Easy|
 |118|[Pascal's Triangle][118]|[Java](LeetCode_118_PascalssTriangle.Java)|2017/12/20|Easy|
 |119|[Pascal's Triangle II][119]|[Java](LeetCode_118_PascalsTriangle.Java)|2017/12/21|Easy|
-
 |121|[Best Time to Buy and Sell Stock][121]|[Java](LeetCode_121_BestTimetoBuyandSellStock.Java)|2017/12/23|Easy|
 |122|[Best Time to Buy and Sell Stock II][122]|[Java](LeetCode_122_BestTimetoBuyandSellStockII.Java)|2017/12/24|Easy|
 |167|[Two Sum II - Input array is sorted][167]|[Java](LeetCode_167_TwoSumII_InputArrayisSorted.Java)|2017/12/30|Easy|
@@ -151,6 +150,8 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |009|[Palindrome Number][009]|[Java](LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
+|599|[Minimum Index Sum of Two Lists][599]|[Java](LeetCode_599_MinimumIndexSumofTwoLists.Java)|2018/02/14|Easy|
+|771|[Jewels and Stones][771]|[Java](LeetCode_771_JewelsandStones.Java)|2018/02/14|Easy|
 
 
 [001]:https://leetcode.com/problems/two-sum/description/
@@ -244,6 +245,7 @@ LeetCode solutions in Java.
 [572]:https://leetcode.com/problems/subtree-of-another-tree/description/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 [598]:https://leetcode.com/problems/range-addition-ii/description/
+[599]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
 [605]:https://leetcode.com/problems/can-place-flowers/description/
 [606]:https://leetcode.com/problems/construct-string-from-binary-tree/description/
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
@@ -267,7 +269,7 @@ LeetCode solutions in Java.
 [724]:https://leetcode.com/problems/find-pivot-index/description/
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [747]:https://leetcode.com/problems/largest-number-greater-than-twice-of-others/description/
-
+[771]:https://leetcode.com/problems/jewels-and-stones/description/
 
 
 

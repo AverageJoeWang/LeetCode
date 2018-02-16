@@ -155,6 +155,7 @@ LeetCode solutions in Java.
 |476|[Number Complement][476]|[Java](LeetCode_476_NumberComplement.Java)|2018/02/15|Easy|
 |500|[Keyboard Row][500]|[Java](LeetCode_500_KeyboardRow.Java)|2018/02/16|Easy|
 |599|[Minimum Index Sum of Two Lists][599]|[Java](LeetCode_599_MinimumIndexSumofTwoLists.Java)|2018/02/14|Easy|
+|682|[][682]|[Java](LeetCode_682_BaseballGame.Java)|2018/02/16|Easy|
 |771|[Jewels and Stones][771]|[Java](LeetCode_771_JewelsandStones.Java)|2018/02/14|Easy|
 
 
@@ -268,6 +269,7 @@ LeetCode solutions in Java.
 [671]:https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
 [674]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [680]:https://leetcode.com/problems/valid-palindrome-ii/description/
+[682]:https://leetcode.com/problems/baseball-game/description/
 [686]:https://leetcode.com/problems/repeated-string-match/description/
 [687]:https://leetcode.com/problems/longest-univalue-path/description/
 [696]:https://leetcode.com/problems/count-binary-substrings/description/

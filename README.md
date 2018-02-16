@@ -153,6 +153,7 @@ LeetCode solutions in Java.
 |461|[Hamming Distance][461]|[Java](LeetCode_461_HammingDistance.Java)|2018/02/15|Easy|
 (LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
 |476|[Number Complement][476]|[Java](LeetCode_476_NumberComplement.Java)|2018/02/15|Easy|
+|500|[Keyboard Row][500]|[Java](LeetCode_500_KeyboardRow.Java)|2018/02/16|Easy|
 |599|[Minimum Index Sum of Two Lists][599]|[Java](LeetCode_599_MinimumIndexSumofTwoLists.Java)|2018/02/14|Easy|
 |771|[Jewels and Stones][771]|[Java](LeetCode_771_JewelsandStones.Java)|2018/02/14|Easy|
 
@@ -234,6 +235,7 @@ LeetCode solutions in Java.
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [476]:https://leetcode.com/problems/number-complement/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
+[500]:https://leetcode.com/problems/keyboard-row/description/
 [501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
 [507]:https://leetcode.com/problems/perfect-number/description/
 [520]:https://leetcode.com/problems/detect-capital/description/

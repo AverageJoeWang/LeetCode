@@ -150,10 +150,12 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |009|[Palindrome Number][009]|[Java](LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
+|412|[Fizz Buzz][412]|[Java](LeetCode_412_FizzBuzz.Java)|2018/02/17|Easy|
 |461|[Hamming Distance][461]|[Java](LeetCode_461_HammingDistance.Java)|2018/02/15|Easy|
 (LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
 |476|[Number Complement][476]|[Java](LeetCode_476_NumberComplement.Java)|2018/02/15|Easy|
 |500|[Keyboard Row][500]|[Java](LeetCode_500_KeyboardRow.Java)|2018/02/16|Easy|
+|575|[Distribute Candies][575]|[Java](LeetCode_575_DistributeCandies.Java)|2018/02/17|Easy|
 |599|[Minimum Index Sum of Two Lists][599]|[Java](LeetCode_599_MinimumIndexSumofTwoLists.Java)|2018/02/14|Easy|
 |682|[][682]|[Java](LeetCode_682_BaseballGame.Java)|2018/02/16|Easy|
 |771|[Jewels and Stones][771]|[Java](LeetCode_771_JewelsandStones.Java)|2018/02/14|Easy|
@@ -224,6 +226,7 @@ LeetCode solutions in Java.
 [387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 [400]:https://leetcode.com/problems/nth-digit/description/
 [404]:https://leetcode.com/problems/sum-of-left-leaves/description/
+[412]:https://leetcode.com/problems/fizz-buzz/description/
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [415]:https://leetcode.com/problems/add-strings/description/
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
@@ -251,6 +254,7 @@ LeetCode solutions in Java.
 [563]:https://leetcode.com/problems/binary-tree-tilt/description/
 [566]:https://leetcode.com/problems/reshape-the-matrix/description/
 [572]:https://leetcode.com/problems/subtree-of-another-tree/description/
+[575]:https://leetcode.com/problems/distribute-candies/description/
 [581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
 [598]:https://leetcode.com/problems/range-addition-ii/description/
 [599]:https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/

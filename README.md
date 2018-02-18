@@ -146,11 +146,13 @@ LeetCode solutions in Java.
 
 
 
+
 # extra
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |009|[Palindrome Number][009]|[Java](LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
 |412|[Fizz Buzz][412]|[Java](LeetCode_412_FizzBuzz.Java)|2018/02/17|Easy|
+|463|[Island Perimeter][463]|[Java](LeetCode_463_IslandPerimeter.Java)|2018/02/18|Easy|
 |461|[Hamming Distance][461]|[Java](LeetCode_461_HammingDistance.Java)|2018/02/15|Easy|
 (LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
 |476|[Number Complement][476]|[Java](LeetCode_476_NumberComplement.Java)|2018/02/15|Easy|
@@ -158,6 +160,7 @@ LeetCode solutions in Java.
 |575|[Distribute Candies][575]|[Java](LeetCode_575_DistributeCandies.Java)|2018/02/17|Easy|
 |599|[Minimum Index Sum of Two Lists][599]|[Java](LeetCode_599_MinimumIndexSumofTwoLists.Java)|2018/02/14|Easy|
 |682|[][682]|[Java](LeetCode_682_BaseballGame.Java)|2018/02/16|Easy|
+|766|[Toeplitz Matrix][766]|[Java](LeetCode_766_ToeplitzMatrix.Java)|2018/02/18|Easy|
 |771|[Jewels and Stones][771]|[Java](LeetCode_771_JewelsandStones.Java)|2018/02/14|Easy|
 
 
@@ -237,6 +240,7 @@ LeetCode solutions in Java.
 [453]:https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
 [459]:https://leetcode.com/problems/repeated-substring-pattern/description/
 [461]:https://leetcode.com/problems/hamming-distance/description/
+[463]:https://leetcode.com/problems/island-perimeter/description/
 [476]:https://leetcode.com/problems/number-complement/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
 [500]:https://leetcode.com/problems/keyboard-row/description/
@@ -282,6 +286,7 @@ LeetCode solutions in Java.
 [724]:https://leetcode.com/problems/find-pivot-index/description/
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [747]:https://leetcode.com/problems/largest-number-greater-than-twice-of-others/description/
+[766]:https://leetcode.com/problems/toeplitz-matrix/description/
 [771]:https://leetcode.com/problems/jewels-and-stones/description/
 
 

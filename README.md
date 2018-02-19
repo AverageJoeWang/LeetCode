@@ -151,11 +151,14 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |009|[Palindrome Number][009]|[Java](LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
+|136|[Single Number][136]|[Java](LeetCode_136_SingleNumber.Java)|2018/02/19|Easy|
+|389|[Find the Difference][389]|[Java](LeetCode_389_FindtheDifference.Java)|2018/02/19|Easy|
 |412|[Fizz Buzz][412]|[Java](LeetCode_412_FizzBuzz.Java)|2018/02/17|Easy|
 |463|[Island Perimeter][463]|[Java](LeetCode_463_IslandPerimeter.Java)|2018/02/18|Easy|
 |461|[Hamming Distance][461]|[Java](LeetCode_461_HammingDistance.Java)|2018/02/15|Easy|
 (LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
 |476|[Number Complement][476]|[Java](LeetCode_476_NumberComplement.Java)|2018/02/15|Easy|
+|496|[Next Greater Element I][496]|[Java](LeetCode_496_NextGreaterElementI.Java)|2018/02/19|Easy|
 |500|[Keyboard Row][500]|[Java](LeetCode_500_KeyboardRow.Java)|2018/02/16|Easy|
 |575|[Distribute Candies][575]|[Java](LeetCode_575_DistributeCandies.Java)|2018/02/17|Easy|
 |599|[Minimum Index Sum of Two Lists][599]|[Java](LeetCode_599_MinimumIndexSumofTwoLists.Java)|2018/02/14|Easy|
@@ -196,6 +199,7 @@ LeetCode solutions in Java.
 [121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [122]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125]:https://leetcode.com/problems/valid-palindrome/description/
+[136]:https://leetcode.com/problems/single-number/description/
 [141]:https://leetcode.com/problems/linked-list-cycle/description/
 [142]:https://leetcode.com/problems/linked-list-cycle-ii/description/
 [160]:https://leetcode.com/problems/intersection-of-two-linked-lists/description/
@@ -227,6 +231,7 @@ LeetCode solutions in Java.
 [367]:https://leetcode.com/problems/valid-perfect-square/description/
 [383]:https://leetcode.com/problems/ransom-note/description/
 [387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
+[389]:https://leetcode.com/problems/find-the-difference/description/
 [400]:https://leetcode.com/problems/nth-digit/description/
 [404]:https://leetcode.com/problems/sum-of-left-leaves/description/
 [412]:https://leetcode.com/problems/fizz-buzz/description/
@@ -243,6 +248,7 @@ LeetCode solutions in Java.
 [463]:https://leetcode.com/problems/island-perimeter/description/
 [476]:https://leetcode.com/problems/number-complement/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
+[496]:https://leetcode.com/problems/next-greater-element-i/description/
 [500]:https://leetcode.com/problems/keyboard-row/description/
 [501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
 [507]:https://leetcode.com/problems/perfect-number/description/

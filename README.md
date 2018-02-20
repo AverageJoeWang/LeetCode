@@ -152,6 +152,7 @@ LeetCode solutions in Java.
 |---|-----|--------|--------|----------|
 |009|[Palindrome Number][009]|[Java](LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
 |136|[Single Number][136]|[Java](LeetCode_136_SingleNumber.Java)|2018/02/19|Easy|
+|292|[Nim Game][292]|[Java](LeetCode_292_NimGame.Java)|2018/02/20|Easy|
 |389|[Find the Difference][389]|[Java](LeetCode_389_FindtheDifference.Java)|2018/02/19|Easy|
 |412|[Fizz Buzz][412]|[Java](LeetCode_412_FizzBuzz.Java)|2018/02/17|Easy|
 |463|[Island Perimeter][463]|[Java](LeetCode_463_IslandPerimeter.Java)|2018/02/18|Easy|
@@ -224,7 +225,8 @@ LeetCode solutions in Java.
 [258]:https://leetcode.com/problems/add-digits/description/
 [263]:https://leetcode.com/problems/ugly-number/description/
 [268]:https://leetcode.com/problems/missing-number/description/
-[283]:https://leetcode.com/problems/move-zeroes/
+[283]:https://leetcode.com/problems/move-zeroes/description/
+[292]:https://leetcode.com/problems/nim-game/description/
 [326]:https://leetcode.com/problems/power-of-three/description/
 [344]:https://leetcode.com/problems/reverse-string/description/
 [345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/

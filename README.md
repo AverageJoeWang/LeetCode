@@ -166,6 +166,7 @@ LeetCode solutions in Java.
 |682|[][682]|[Java](LeetCode_682_BaseballGame.Java)|2018/02/16|Easy|
 |766|[Toeplitz Matrix][766]|[Java](LeetCode_766_ToeplitzMatrix.Java)|2018/02/18|Easy|
 |771|[Jewels and Stones][771]|[Java](LeetCode_771_JewelsandStones.Java)|2018/02/14|Easy|
+|784|[Letter Case Permutation][784]|[Java](LeetCode_784_LetterCasePermutation.Java)|2018/02/20|Easy|
 
 
 [001]:https://leetcode.com/problems/two-sum/description/
@@ -296,6 +297,7 @@ LeetCode solutions in Java.
 [747]:https://leetcode.com/problems/largest-number-greater-than-twice-of-others/description/
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
 [771]:https://leetcode.com/problems/jewels-and-stones/description/
+[784]:https://leetcode.com/problems/letter-case-permutation/description/
 
 
 

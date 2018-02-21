@@ -163,7 +163,8 @@ LeetCode solutions in Java.
 |500|[Keyboard Row][500]|[Java](LeetCode_500_KeyboardRow.Java)|2018/02/16|Easy|
 |575|[Distribute Candies][575]|[Java](LeetCode_575_DistributeCandies.Java)|2018/02/17|Easy|
 |599|[Minimum Index Sum of Two Lists][599]|[Java](LeetCode_599_MinimumIndexSumofTwoLists.Java)|2018/02/14|Easy|
-|682|[][682]|[Java](LeetCode_682_BaseballGame.Java)|2018/02/16|Easy|
+|682|[Baseball Game][682]|[Java](LeetCode_682_BaseballGame.Java)|2018/02/16|Easy|
+|762|[Prime Number of Set Bits in Binary Representation][762]|[Java](LeetCode_762_PrimeNumberofSetBitsinBinaryRepresentation.Java)|2018/02/21|Easy|
 |766|[Toeplitz Matrix][766]|[Java](LeetCode_766_ToeplitzMatrix.Java)|2018/02/18|Easy|
 |771|[Jewels and Stones][771]|[Java](LeetCode_771_JewelsandStones.Java)|2018/02/14|Easy|
 |784|[Letter Case Permutation][784]|[Java](LeetCode_784_LetterCasePermutation.Java)|2018/02/20|Easy|
@@ -295,6 +296,7 @@ LeetCode solutions in Java.
 [724]:https://leetcode.com/problems/find-pivot-index/description/
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [747]:https://leetcode.com/problems/largest-number-greater-than-twice-of-others/description/
+[762]:https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
 [771]:https://leetcode.com/problems/jewels-and-stones/description/
 [784]:https://leetcode.com/problems/letter-case-permutation/description/

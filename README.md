@@ -160,6 +160,7 @@ LeetCode solutions in Java.
 |461|[Hamming Distance][461]|[Java](LeetCode_461_HammingDistance.Java)|2018/02/15|Easy|
 (LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
 |476|[Number Complement][476]|[Java](LeetCode_476_NumberComplement.Java)|2018/02/15|Easy|
+|492|[Construct the Rectangle][492]|[Java](LeetCode_492_ConstructtheRectangle.Java)|2018/02/22|Easy|
 |496|[Next Greater Element I][496]|[Java](LeetCode_496_NextGreaterElementI.Java)|2018/02/19|Easy|
 |500|[Keyboard Row][500]|[Java](LeetCode_500_KeyboardRow.Java)|2018/02/16|Easy|
 |575|[Distribute Candies][575]|[Java](LeetCode_575_DistributeCandies.Java)|2018/02/17|Easy|
@@ -254,6 +255,7 @@ LeetCode solutions in Java.
 [463]:https://leetcode.com/problems/island-perimeter/description/
 [476]:https://leetcode.com/problems/number-complement/description/
 [485]:https://leetcode.com/problems/max-consecutive-ones/description/
+[492]:https://leetcode.com/problems/construct-the-rectangle/description/
 [496]:https://leetcode.com/problems/next-greater-element-i/description/
 [500]:https://leetcode.com/problems/keyboard-row/description/
 [501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/

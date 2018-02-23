@@ -154,6 +154,7 @@ LeetCode solutions in Java.
 |136|[Single Number][136]|[Java](LeetCode_136_SingleNumber.Java)|2018/02/19|Easy|
 |292|[Nim Game][292]|[Java](LeetCode_292_NimGame.Java)|2018/02/20|Easy|
 |371|[Sum of Two Integers][371]|[Java](LeetCode_371_SumofTwoIntegers.Java)|2018/02/22|Easy|
+|349|[Intersection of Two Arrays][349]|[Java](LeetCode_49_IntersectionofTwoArrays.Java)|2018/02/23|Easy|
 |389|[Find the Difference][389]|[Java](LeetCode_389_FindtheDifference.Java)|2018/02/19|Easy|
 |412|[Fizz Buzz][412]|[Java](LeetCode_412_FizzBuzz.Java)|2018/02/17|Easy|
 |463|[Island Perimeter][463]|[Java](LeetCode_463_IslandPerimeter.Java)|2018/02/18|Easy|
@@ -234,6 +235,7 @@ LeetCode solutions in Java.
 [326]:https://leetcode.com/problems/power-of-three/description/
 [344]:https://leetcode.com/problems/reverse-string/description/
 [345]:https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+[349]:https://leetcode.com/problems/intersection-of-two-arrays/description/
 [367]:https://leetcode.com/problems/valid-perfect-square/description/
 [371]:https://leetcode.com/problems/sum-of-two-integers/description/
 [383]:https://leetcode.com/problems/ransom-note/description/

@@ -167,6 +167,7 @@ LeetCode solutions in Java.
 |575|[Distribute Candies][575]|[Java](LeetCode_575_DistributeCandies.Java)|2018/02/17|Easy|
 |599|[Minimum Index Sum of Two Lists][599]|[Java](LeetCode_599_MinimumIndexSumofTwoLists.Java)|2018/02/14|Easy|
 |682|[Baseball Game][682]|[Java](LeetCode_682_BaseballGame.Java)|2018/02/16|Easy|
+|690|[Employee Importance][690]|[Java](LeetCode_690_EmployeeImportance.Java)|2018/02/24|Easy|
 |762|[Prime Number of Set Bits in Binary Representation][762]|[Java](LeetCode_762_PrimeNumberofSetBitsinBinaryRepresentation.Java)|2018/02/21|Easy|
 |766|[Toeplitz Matrix][766]|[Java](LeetCode_766_ToeplitzMatrix.Java)|2018/02/18|Easy|
 |771|[Jewels and Stones][771]|[Java](LeetCode_771_JewelsandStones.Java)|2018/02/14|Easy|
@@ -296,6 +297,7 @@ LeetCode solutions in Java.
 [682]:https://leetcode.com/problems/baseball-game/description/
 [686]:https://leetcode.com/problems/repeated-string-match/description/
 [687]:https://leetcode.com/problems/longest-univalue-path/description/
+[690]:https://leetcode.com/problems/employee-importance/description/
 [696]:https://leetcode.com/problems/count-binary-substrings/description/
 [697]:https://leetcode.com/problems/degree-of-an-array/
 [717]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/

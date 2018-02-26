@@ -152,6 +152,7 @@ LeetCode solutions in Java.
 |---|-----|--------|--------|----------|
 |009|[Palindrome Number][009]|[Java](LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
 |136|[Single Number][136]|[Java](LeetCode_136_SingleNumber.Java)|2018/02/19|Easy|
+|242|[Valid Anagram][242]|[Java](LeetCode_242_ValidAnagram.Java)|2018/02/26|Easy|
 |292|[Nim Game][292]|[Java](LeetCode_292_NimGame.Java)|2018/02/20|Easy|
 |371|[Sum of Two Integers][371]|[Java](LeetCode_371_SumofTwoIntegers.Java)|2018/02/22|Easy|
 |349|[Intersection of Two Arrays][349]|[Java](LeetCode_49_IntersectionofTwoArrays.Java)|2018/02/23|Easy|
@@ -228,6 +229,7 @@ LeetCode solutions in Java.
 [234]:https://leetcode.com/problems/palindrome-linked-list/description/
 [235]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
 [237]:https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+[242]:https://leetcode.com/problems/valid-anagram/description/
 [257]:https://leetcode.com/problems/binary-tree-paths/description/
 [258]:https://leetcode.com/problems/add-digits/description/
 [263]:https://leetcode.com/problems/ugly-number/description/

@@ -138,6 +138,7 @@ LeetCode solutions in Java.
 |415|[Add Strings][415]|[Java](LeetCode_415_AddStrings.Java)|2018/02/13|Easy|
 |441|[Arranging Coins][441]|[Java](LeetCode_441_ArrangingCoins.Java)|2018/02/07|Easy|
 |453|[Minimum Moves to Equal Array Elements][453]|[Java](LeetCode_453_MinimumMovestoEqualArrayElements.Java)|2018/02/11|Easy|
+|506|[Relative Ranks][506]|[Java](LeetCode_506_RelativeRanks.Java)|2018/02/27|Easy|
 |507|[Perfect Number][507]|[Java](LeetCode_507_PerfectNumber.Java)|2018/02/09|Easy|
 |598|[Range Addition II][598]|[Java](LeetCode_598_RangeAdditionII.Java)|2018/02/08|Easy|
 |633|[Sum of Square Numbers][633]|[Java](LeetCode_633_SumofSquareNumbers.Java)|2018/02/08|Easy|
@@ -267,6 +268,7 @@ LeetCode solutions in Java.
 [496]:https://leetcode.com/problems/next-greater-element-i/description/
 [500]:https://leetcode.com/problems/keyboard-row/description/
 [501]:https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
+[506]:https://leetcode.com/problems/relative-ranks/description/
 [507]:https://leetcode.com/problems/perfect-number/description/
 [520]:https://leetcode.com/problems/detect-capital/description/
 [521]:https://leetcode.com/problems/longest-uncommon-subsequence-i/description/

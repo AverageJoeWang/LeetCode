@@ -13,7 +13,7 @@ public class LeetCode_506_RelativeRanks {
         int n = nums.length;
         String[] result = new String[n];
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();
-        
+
         for(int i = 0; i < n; ++i){
             map.put(nums[i], i);
         }

@@ -152,6 +152,7 @@ LeetCode solutions in Java.
 |NO.|Title|Solution|Add Date|Difficulty|
 |---|-----|--------|--------|----------|
 |009|[Palindrome Number][009]|[Java](LeetCode_009_PalindromeNumber.Java)|2018/02/06|Easy|
+|070|[Climbing Stairs][070]|[Java](LeetCode_070_ClimbingStairs.Java)|2018/02/28|Easy|
 |136|[Single Number][136]|[Java](LeetCode_136_SingleNumber.Java)|2018/02/19|Easy|
 |242|[Valid Anagram][242]|[Java](LeetCode_242_ValidAnagram.Java)|2018/02/26|Easy|
 |292|[Nim Game][292]|[Java](LeetCode_292_NimGame.Java)|2018/02/20|Easy|
@@ -195,6 +196,7 @@ LeetCode solutions in Java.
 [066]:https://leetcode.com/problems/plus-one/description/
 [067]:https://leetcode.com/problems/add-binary/description/
 [069]:https://leetcode.com/problems/sqrtx/description/
+[070]:https://leetcode.com/problems/climbing-stairs/description/
 [083]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [088]:https://leetcode.com/problems/merge-sorted-array/description/
 [100]:https://leetcode.com/problems/same-tree/

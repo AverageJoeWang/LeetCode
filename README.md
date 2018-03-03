@@ -9,8 +9,8 @@ LeetCode solutions in Java.
 ## binaryTree
 |NO.|Title|Solution|Add Date|
 |---|-----|--------|--------|
-|01|[二叉树的镜像][01]|[Java](JianZhiOffer_01_Mirror.Java)|2018/03/03|
-|02|[对称二叉树][02]|[Java](JianZhiOffer_02_isSymmetrical.Java)|2018/03/03|
+|01|[二叉树的镜像][01]|[Java](jzOffer/JianZhiOffer_01_Mirror.Java)|2018/03/03|
+|02|[对称二叉树][02]|[Java](jzOffer/JianZhiOffer_02_isSymmetrical.Java)|2018/03/03|
 
 
 

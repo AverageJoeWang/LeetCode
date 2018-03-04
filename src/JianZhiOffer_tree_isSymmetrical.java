@@ -1,17 +1,6 @@
-/*
-public class TreeNode {
-    int val = 0;
-    TreeNode left = null;
-    TreeNode right = null;
 
-    public TreeNode(int val) {
-        this.val = val;
 
-    }
-
-}
-*/
-public class Solution {
+public class JianZhiOffer_tree_isSymmetrical {
     boolean isSymmetrical(TreeNode pRoot)
     {
         if(pRoot == null) return true;

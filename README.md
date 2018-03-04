@@ -7,10 +7,13 @@ LeetCode solutions in Java.
 
 
 ## binaryTree
+
 |NO.|Title|Solution|Add Date|
 |---|-----|--------|--------|
-|01|[二叉树的镜像][01]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/jzOffer/JianZhiOffer_01_Mirror.java)|2018/03/03|
-|02|[对称二叉树][02]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/jzOffer/JianZhiOffer_01_Mirror.java)|2018/03/03|
+|01|[二叉树的镜像][01]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianZhiOffer_tree_Mirror.java)|2018/03/03|
+|02|[对称二叉树][02]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianZhiOffer_tree_isSymmetrical.java)|2018/03/03|
+|03|[二叉树下一个节点][03]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianzhiOffer_tree_GetNext.java)|2018/03/04|
+|04|[层打印二叉树][04]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianzhiOffer_tree_print.java)|2018/03/04|
 
 
 
@@ -19,8 +22,8 @@ LeetCode solutions in Java.
 
 [01]:https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&tqId=11171&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
 [02]:https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&tqId=11211&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
-
-
+[03]:https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&tqId=11211&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking
+[04]:https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tqId=11213&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking
 
 # [leetcode][0]
 

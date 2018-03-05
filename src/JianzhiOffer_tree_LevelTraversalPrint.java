@@ -5,7 +5,7 @@ import java.util.ArrayList;
  */
 
 
-public class JianzhiOffer_tree_print {
+public class JianzhiOffer_tree_LevelTraversalPrint {
     ArrayList<ArrayList<Integer> > Print(TreeNode pRoot) {
         ArrayList<ArrayList<Integer>> res = new ArrayList<>();
         if (pRoot == null) return res;

@@ -16,6 +16,8 @@ LeetCode solutions in Java.
 |04|[层序打印二叉树][04]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianzhiOffer_tree_LevelTraversalPrint.java)|2018/03/04|
 |05|[之字打印二叉树][05]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianzhiOffer_tree_ZhiTraversalPrint.java)|2018/03/05|
 |06|[序列化二叉树][06]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianzhiOffer_tree_ZhiTraversalPrint.java)|2018/03/05|
+|07|[二叉搜索树的第k个节点][07]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianzhiOffer_tree_KthNode.java)|2018/03/06|
+|08|[数据流中的中位数][08]|[Java](https://github.com/AverageJoeWang/LeetCode/blob/master/src/JianzhiOffer_tree_MidNumber.java)|2018/03/07|
 
 
 
@@ -24,6 +26,10 @@ LeetCode solutions in Java.
 [03]:https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&tqId=11211&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking
 [04]:https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&tqId=11213&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking
 [05]:https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&tqId=11212&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
+[06]:https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&tqId=11215&tPage=2&rp=2&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
+
+
+
 
 
 

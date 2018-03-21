@@ -12,16 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="JianZhiOffer16ReverseList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer16ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="JianZhiOffer22PrintFromTopToBottom.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JianZhiOffer22PrintFromTopToBottom.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,19 +80,16 @@
       <file leaf-file-name="JianZhiOffer27Permutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JianZhiOffer27Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="30" column="23" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="30" selection-end-column="23" />
+            <state relative-caret-position="532">
+              <caret line="30" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="30" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#266#274#0" expanded="true" />
-                <element signature="e#319#329#0" expanded="true" />
-                <element signature="e#382#390#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JianZhiOffer28MoreThanHalfNum_Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JianZhiOffer28MoreThanHalfNum_Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JianZhiOffer28MoreThanHalfNum_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
@@ -112,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JianzhiOffer_tree_ZhiTraversalPrint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianzhiOffer_tree_ZhiTraversalPrint.java">
+      <file leaf-file-name="JianZhiOffer28GetLeastNumbers_Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer28GetLeastNumbers_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="133">
+              <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JianZhiOffer31FindGreatestSumOfSubArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer31FindGreatestSumOfSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -149,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JianZhiOffer_tree_Mirror.java" />
         <option value="$PROJECT_DIR$/src/JianzhiOffer_tree_GetNext.java" />
         <option value="$PROJECT_DIR$/src/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer_02_isSymmetrical.java" />
@@ -199,6 +195,8 @@
         <option value="$PROJECT_DIR$/src/JianZhiOffer26Convert.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer27Permutation.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer28MoreThanHalfNum_Solution.java" />
+        <option value="$PROJECT_DIR$/src/JianZhiOffer28GetLeastNumbers_Solution.java" />
+        <option value="$PROJECT_DIR$/src/JianZhiOffer31FindGreatestSumOfSubArray.java" />
       </list>
     </option>
   </component>
@@ -213,8 +211,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="500" />
-    <option name="y" value="374" />
+    <option name="x" value="153" />
+    <option name="y" value="199" />
     <option name="width" value="1440" />
     <option name="height" value="832" />
   </component>
@@ -236,7 +234,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,6 +250,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
@@ -436,14 +434,15 @@
       <workItem from="1521459463775" duration="2000" />
       <workItem from="1521465766304" duration="984000" />
       <workItem from="1521555976784" duration="1022000" />
+      <workItem from="1521642254086" duration="1360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41420000" />
+    <option name="totallyTimeSpent" value="42780000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="500" y="374" width="1440" height="832" extended-state="0" />
+    <frame x="153" y="199" width="1440" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -458,7 +457,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3350144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -488,20 +487,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/themes/Claudia/layout/_partial/nav.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/themes/Claudia/layout/_partial/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -777,10 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4712">
           <caret line="271" column="5" lean-forward="false" selection-start-line="271" selection-start-column="5" selection-end-line="271" selection-end-column="5" />
-          <folding>
-            <element signature="e#20484#20485#0" expanded="true" />
-            <element signature="e#20520#20521#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -856,13 +837,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JianZhiOffer27Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="30" selection-end-column="23" />
+        <state relative-caret-position="532">
+          <caret line="30" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="30" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#274#0" expanded="true" />
-            <element signature="e#319#329#0" expanded="true" />
-            <element signature="e#382#390#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -871,6 +849,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer28GetLeastNumbers_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer31FindGreatestSumOfSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding />
         </state>
       </provider>

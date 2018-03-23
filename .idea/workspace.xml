@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aab92c4-3cfa-415e-a26a-5b67ea88d50c" name="Default" comment="" />
+    <list default="true" id="6aab92c4-3cfa-415e-a26a-5b67ea88d50c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer10JumpFloor.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer10JumpFloor.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer11JumpFloorII.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer11JumpFloorII.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer12RectCover.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer12RectCover.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer13NumberOf1.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer13NumberOf1.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer14Power.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer14Power.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer14reOrderArray.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer14reOrderArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer15FindKthToTail.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer15FindKthToTail.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer16ReverseList.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer16ReverseList.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer17Merge.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer17Merge.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer18HasSubtree.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer18HasSubtree.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer19printMatrix.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer19printMatrix.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer20StackMin.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer20StackMin.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer21IsPopOrder.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer21IsPopOrder.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer22PrintFromTopToBottom.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer22PrintFromTopToBottom.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer23VerifySquenceOfBST.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer23VerifySquenceOfBST.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer24FindPath.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer24FindPath.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer25Clone.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer25Clone.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer26Convert.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer26Convert.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer27Permutation.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer27Permutation.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer28GetLeastNumbers_Solution.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer28GetLeastNumbers_Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer28MoreThanHalfNum_Solution.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer28MoreThanHalfNum_Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer2replaceSpace.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer2replaceSpace.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer31FindGreatestSumOfSubArray.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer31FindGreatestSumOfSubArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer32NumberOf1Between1AndN_Solution.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer32NumberOf1Between1AndN_Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer33PrintMinNumber.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer33PrintMinNumber.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer5pushPop.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer5pushPop.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer6minNumberInRotateArray.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer6minNumberInRotateArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer9Fibonacci.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer9Fibonacci.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOfferEntryNodeOfLoop.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOfferEntryNodeOfLoop.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer_1_ArrayFind.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer_1_ArrayFind.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer_tree_Mirror.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer_tree_Mirror.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOffer_tree_isSymmetrical.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOffer_tree_isSymmetrical.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOfferdeleteDuplication.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOfferdeleteDuplication.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianZhiOfferprintListFromTailToHead.java" afterPath="$PROJECT_DIR$/jzOffer/JianZhiOfferprintListFromTailToHead.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianzhiOffer_tree_GetNext.java" afterPath="$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_GetNext.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianzhiOffer_tree_KthNode.java" afterPath="$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_KthNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianzhiOffer_tree_LevelTraversalPrint.java" afterPath="$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_LevelTraversalPrint.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianzhiOffer_tree_MidNumber.java" afterPath="$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_MidNumber.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianzhiOffer_tree_SerializeDeserialize.java" afterPath="$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_SerializeDeserialize.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianzhiOffer_tree_ZhiTraversalPrint.java" afterPath="$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_ZhiTraversalPrint.java" />
+      <change beforePath="$PROJECT_DIR$/src/JianzhiOffer_tree_reConstructBinaryTree.java" afterPath="$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_reConstructBinaryTree.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,31 +55,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="JianZhiOffer24FindPath.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer24FindPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RandomListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="JianZhiOffer25Clone.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer25Clone.java">
+        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer25Clone.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="665">
               <caret line="35" column="20" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
@@ -46,7 +66,7 @@
         </entry>
       </file>
       <file leaf-file-name="JianZhiOffer26Convert.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer26Convert.java">
+        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer26Convert.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -56,7 +76,7 @@
         </entry>
       </file>
       <file leaf-file-name="JianZhiOffer27Permutation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer27Permutation.java">
+        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer27Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
               <caret line="30" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="30" selection-end-column="23" />
@@ -68,7 +88,7 @@
         </entry>
       </file>
       <file leaf-file-name="JianZhiOffer28MoreThanHalfNum_Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer28MoreThanHalfNum_Solution.java">
+        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer28MoreThanHalfNum_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="51" />
@@ -78,7 +98,7 @@
         </entry>
       </file>
       <file leaf-file-name="JianZhiOffer28GetLeastNumbers_Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer28GetLeastNumbers_Solution.java">
+        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer28GetLeastNumbers_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="51" />
@@ -88,7 +108,7 @@
         </entry>
       </file>
       <file leaf-file-name="JianZhiOffer31FindGreatestSumOfSubArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer31FindGreatestSumOfSubArray.java">
+        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer31FindGreatestSumOfSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
@@ -98,7 +118,7 @@
         </entry>
       </file>
       <file leaf-file-name="JianZhiOffer32NumberOf1Between1AndN_Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer32NumberOf1Between1AndN_Solution.java">
+        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer32NumberOf1Between1AndN_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="57" />
@@ -107,11 +127,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JianZhiOffer33PrintMinNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer33PrintMinNumber.java">
+      <file leaf-file-name="JianZhiOffer33PrintMinNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer33PrintMinNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JianZhiOffer34GetUglyNumber_Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer34GetUglyNumber_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JianZhiOffer35FirstNotRepeatingChar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer35FirstNotRepeatingChar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -144,8 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JianZhiOffer_02_isSymmetrical.java" />
-        <option value="$PROJECT_DIR$/src/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer_tree_isSymmetrical.java" />
         <option value="$PROJECT_DIR$/src/JianzhiOffer_tree_print.java" />
         <option value="$PROJECT_DIR$/src/JianzhiOffer_tree_ZhiTraversalPrint.java" />
@@ -195,6 +233,8 @@
         <option value="$PROJECT_DIR$/src/JianZhiOffer31FindGreatestSumOfSubArray.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer32NumberOf1Between1AndN_Solution.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer33PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/JianZhiOffer34GetUglyNumber_Solution.java" />
+        <option value="$PROJECT_DIR$/src/JianZhiOffer35FirstNotRepeatingChar.java" />
       </list>
     </option>
   </component>
@@ -208,9 +248,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="153" />
-    <option name="y" value="199" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="832" />
   </component>
@@ -232,6 +271,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -251,7 +291,6 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,6 +305,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jzOffer" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -433,12 +473,13 @@
       <workItem from="1521465766304" duration="984000" />
       <workItem from="1521555976784" duration="1022000" />
       <workItem from="1521642254086" duration="1360000" />
-      <workItem from="1521707778081" duration="1812000" />
+      <workItem from="1521707778081" duration="1895000" />
+      <workItem from="1521815310597" duration="1259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44592000" />
+    <option name="totallyTimeSpent" value="45934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
@@ -451,19 +492,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3350144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3407781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -486,20 +527,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/themes/Claudia/layout/_partial/primary_content.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/themes/Claudia/layout/_partial/footer.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
@@ -521,42 +548,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer_tree_Mirror.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer_tree_Mirror.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer_tree_isSymmetrical.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer_tree_isSymmetrical.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianzhiOffer_tree_LevelTraversalPrint.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_LevelTraversalPrint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianzhiOffer_tree_SerializeDeserialize.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_SerializeDeserialize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianzhiOffer_tree_MidNumber.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_MidNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianzhiOffer_tree_KthNode.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_KthNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="38" />
@@ -573,7 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianzhiOffer_tree_reConstructBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_reConstructBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="52" />
@@ -587,77 +614,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOfferprintListFromTailToHead.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOfferprintListFromTailToHead.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOfferEntryNodeOfLoop.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOfferEntryNodeOfLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOfferdeleteDuplication.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOfferdeleteDuplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer_1_ArrayFind.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer_1_ArrayFind.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer2replaceSpace.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer2replaceSpace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer5pushPop.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer5pushPop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer6minNumberInRotateArray.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer6minNumberInRotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer9Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer9Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer10JumpFloor.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer10JumpFloor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer11JumpFloorII.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer11JumpFloorII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer12RectCover.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer12RectCover.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="36" />
@@ -671,63 +698,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer13NumberOf1.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer13NumberOf1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer14Power.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer14Power.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer14reOrderArray.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer14reOrderArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer15FindKthToTail.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer15FindKthToTail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer17Merge.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer17Merge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer18HasSubtree.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer18HasSubtree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer19printMatrix.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer19printMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer20StackMin.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer20StackMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer21IsPopOrder.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer21IsPopOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
@@ -741,32 +768,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer16ReverseList.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer16ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianzhiOffer_tree_ZhiTraversalPrint.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_ZhiTraversalPrint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer22PrintFromTopToBottom.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer22PrintFromTopToBottom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer23VerifySquenceOfBST.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer23VerifySquenceOfBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="45" />
@@ -774,7 +801,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer24FindPath.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer24FindPath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
@@ -793,7 +820,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer25Clone.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer25Clone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="35" column="20" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
@@ -801,7 +828,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer26Convert.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer31FindGreatestSumOfSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer32NumberOf1Between1AndN_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer26Convert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -809,7 +852,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer27Permutation.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer27Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="30" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="30" selection-end-column="23" />
@@ -819,7 +862,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer28MoreThanHalfNum_Solution.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer28MoreThanHalfNum_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="51" />
@@ -827,7 +870,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer28GetLeastNumbers_Solution.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer28GetLeastNumbers_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="51" />
@@ -835,26 +878,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer31FindGreatestSumOfSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer32NumberOf1Between1AndN_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer33PrintMinNumber.java">
+    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer33PrintMinNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer34GetUglyNumber_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer35FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="48" />
           <folding />
         </state>
       </provider>

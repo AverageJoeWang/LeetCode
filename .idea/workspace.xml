@@ -14,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="JianZhiOffer27Permutation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer27Permutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="30" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="30" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="JianZhiOffer28MoreThanHalfNum_Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer28MoreThanHalfNum_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,15 +94,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JianZhiOffer39IsBalanced_Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JianZhiOffer39IsBalanced_Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JianZhiOffer39IsBalanced_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="361">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#152#153#0" expanded="true" />
                 <element signature="e#191#192#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JianZhiOffer40FindNumsAppearOnce.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JianZhiOffer40FindNumsAppearOnce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -146,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/themes/Claudia/layout/_partial/post.ejs" />
         <option value="$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/themes/Claudia/layout/_partial/footer.ejs" />
         <option value="$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/_config.yml" />
         <option value="$PROJECT_DIR$/../Hexo/BACKUP/AverageJoeWang/themes/Claudia/_config.yml" />
@@ -197,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/JianZhiOffer37GetNumberOfK.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer38TreeDepth.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer39IsBalanced_Solution.java" />
+        <option value="$PROJECT_DIR$/src/JianZhiOffer40FindNumsAppearOnce.java" />
       </list>
     </option>
   </component>
@@ -211,8 +209,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-155" />
-    <option name="y" value="226" />
+    <option name="x" value="634" />
+    <option name="y" value="187" />
     <option name="width" value="1440" />
     <option name="height" value="832" />
   </component>
@@ -234,7 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
@@ -254,6 +251,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -438,15 +436,17 @@
       <workItem from="1521642254086" duration="1360000" />
       <workItem from="1521707778081" duration="1895000" />
       <workItem from="1521815310597" duration="1394000" />
-      <workItem from="1521902630296" duration="994000" />
+      <workItem from="1521902630296" duration="1075000" />
+      <workItem from="1521982340750" duration="255000" />
+      <workItem from="1522071095841" duration="299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47063000" />
+    <option name="totallyTimeSpent" value="47698000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-155" y="226" width="1440" height="832" extended-state="0" />
+    <frame x="634" y="187" width="1440" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -461,7 +461,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3465418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3595101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -491,13 +491,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jzOffer/JianZhiOffer_tree_isSymmetrical.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jzOffer/JianzhiOffer_tree_LevelTraversalPrint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -751,7 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="35" column="20" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -775,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,7 +773,7 @@
         <state relative-caret-position="532">
           <caret line="30" column="23" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="30" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -855,12 +844,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JianZhiOffer39IsBalanced_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JianZhiOffer40FindNumsAppearOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

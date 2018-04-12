@@ -8,8 +8,9 @@ import Sort.Sort;
 public class Test {
     public static void main(String[] args){
         Sort sort = new Sort();
-        int a[] = {2,3,6,1,0};
-        sort.SelectSort(a);
+        int a[] = {5,7,1,8,4};
+//        sort.QuickSort(a, 0, a.length - 1);
+        sort.BubbleSort(a);
         for (int i = 0; i < a.length; i++)
             System.out.print(a[i] + " ");
     }

@@ -4,13 +4,13 @@ package ClassicQuestion;
  * Created by oliverwang on 2018/4/14.
  */
 
-class ListNode {
-    int val;
-    ListNode next = null;
-    ListNode(int val) {
-        this.val = val;
-    }
-}
+//class ListNode {
+//    int val;
+//    ListNode next = null;
+//    ListNode(int val) {
+//        this.val = val;
+//    }
+//}
 
 public class ReverseLinkedList {
     public static ListNode ReverseLinkedListed(ListNode head){

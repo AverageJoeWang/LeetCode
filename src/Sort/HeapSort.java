@@ -7,7 +7,7 @@ package Sort;
 
 public class HeapSort {
     public static void sort(int [] arr){
-        char a[] = new Character(arr.length);
+//        char a[] = new Character(arr[);
         //1.构建大顶堆
         for (int i = arr.length/2 - 1; i >= 0; i--){
             adjustHeap(arr, i, arr.length);
